@@ -1,0 +1,1334 @@
+{
+  "Chapter1": [
+      {
+          "Idea": "Auto Book Reader",
+          "Can be Found": "Cedrics Shop, near front door",
+          "Additional Information": "A stand with a book and mechanical hand."
+        },
+        {
+          "Idea": "Bar Sign",
+          "Can be Found": "Outside the Bar. Turn left from Police Station",
+          "Additional Information": "Either the standing wooden sign or the hanging sign."
+        },
+        {
+          "Idea": "Barrel",
+          "Can be Found": "The back of Cedrics Shop, under the white cloth",
+          "Additional Information": "It's a wooden barrel."
+        },
+        {
+          "Idea": "Bed",
+          "Can be Found": "In most houses",
+          "Additional Information": "It's a bed."
+        },
+        {
+          "Idea": "Belt",
+          "Can be Found": "Sheriff Blinkhorn is wearing it. Required by tutorial",
+          "Additional Information": "It's a belt."
+        },
+        {
+          "Idea": "Bench",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "It's a bench. With wooden slats and metal railings. Try outside City Hall."
+        },
+        {
+          "Idea": "Binoculars",
+          "Can be Found": "Cedrics Shop",
+          "Additional Information": "A pair of binoculars on the counter near the main entrance."
+        },
+        {
+          "Idea": "Blackstone One",
+          "Can be Found": "Parked in Palm Brinks Station",
+          "Additional Information": "The large yellow and orange train with three coaches that you travel in."
+        },
+        {
+          "Idea": "Boat",
+          "Can be Found": "Parked at the pier at Palm Brinks Lake",
+          "Additional Information": "It's a small wooden boat."
+        },
+        {
+          "Idea": "Bone",
+          "Can be Found": "Dell Clinic, by Palm Brinks Lake",
+          "Additional Information": "The standing skeleton model."
+        },
+        {
+          "Idea": "Book",
+          "Can be Found": "One in Mortons Sundries, on Counter",
+          "Additional Information": "A book or stack of books."
+        },
+        {
+          "Idea": "Bottle",
+          "Can be Found": "A common item, try the Bar",
+          "Additional Information": "Any bottle will do."
+        },
+        {
+          "Idea": "Bread",
+          "Can be Found": "Pollys Bakery",
+          "Additional Information": "The loaves of bread sticking out of the baskets."
+        },
+        {
+          "Idea": "Bridge",
+          "Can be Found": "Outside Maxs House",
+          "Additional Information": "The small stone bridge over the tiny river."
+        },
+        {
+          "Idea": "Cafe Sign",
+          "Can be Found": "Opposite the Bar by the Station in Palm Brinks",
+          "Additional Information": "The little wooden sign by the Tea Shop."
+        },
+        {
+          "Idea": "Can",
+          "Can be Found": "Pollys Bakery",
+          "Additional Information": "On one of the shelves."
+        },
+        {
+          "Idea": "Candle",
+          "Can be Found": "Palm Brinks Church",
+          "Additional Information": "One of the candles lining the aisle."
+        },
+        {
+          "Idea": "Car",
+          "Can be Found": "In Palm Brinks Bar",
+          "Additional Information": "Being used as the serving counter."
+        },
+        {
+          "Idea": "Cart",
+          "Can be Found": "Next to Cedrics Shop, before Police Station",
+          "Additional Information": "A wooden cart with large wheels."
+        },
+        {
+          "Idea": "Cedrics Shop Sign",
+          "Can be Found": "Outside Cedrics Shop",
+          "Additional Information": "Either the price board on the side of the stairs, or the hanging sign."
+        },
+        {
+          "Idea": "Chair",
+          "Can be Found": "In the Bar",
+          "Additional Information": "It's a wooden chair."
+        },
+        {
+          "Idea": "Chandelier",
+          "Can be Found": "Maxs House",
+          "Additional Information": "Main lobby, hanging from ceiling."
+        },
+        {
+          "Idea": "Chimney",
+          "Can be Found": "Roof of Parns Studio",
+          "Additional Information": "These can also be constucted in Georama."
+        },
+        {
+          "Idea": "Clock",
+          "Can be Found": "Above the Train Station or City Hall",
+          "Additional Information": "A clock."
+        },
+        {
+          "Idea": "Cloth",
+          "Can be Found": "Parns Art Studio",
+          "Additional Information": "The white cloths you'll see scattered about."
+        },
+        {
+          "Idea": "Constructor",
+          "Can be Found": "Cedrics Shop",
+          "Additional Information": "The pad upon which Steve the Ridepod is standing."
+        },
+        {
+          "Idea": "Cup",
+          "Can be Found": "Palm Brinks Station, at Bar",
+          "Additional Information": "After entering the station, look alongg left wall. You'll see a shop and a \nbar. The cup can be seen at the bar."
+        },
+        {
+          "Idea": "Curtain",
+          "Can be Found": "Maxs House, Maxs Room",
+          "Additional Information": "The curtains on his window."
+        },
+        {
+          "Idea": "Deer Horn",
+          "Can be Found": "Geralds Room in Maxs House",
+          "Additional Information": "The antlers decorating the walls."
+        },
+        {
+          "Idea": "Dell Clinic Sign",
+          "Can be Found": "Outside Dell Clinic",
+          "Additional Information": "The duck shaped sign hanging up over the stairs."
+        },
+        {
+          "Idea": "Drawbridge",
+          "Can be Found": "Palm Brinks main street",
+          "Additional Information": "The large bridge spanning the river."
+        },
+        {
+          "Idea": "Drawer",
+          "Can be Found": "Maxs House, Maxs Room",
+          "Additional Information": "A set of drawers."
+        },
+        {
+          "Idea": "Dresser",
+          "Can be Found": "Maxs House, Maxs Room",
+          "Additional Information": "The wardrobe."
+        },
+        {
+          "Idea": "Egg",
+          "Can be Found": "Dell Clinic",
+          "Additional Information": "Look on a shelf high up. You'll see an egg in a nest."
+        },
+        {
+          "Idea": "Elana's Portrait",
+          "Can be Found": "Geralds Room in Maxs House.",
+          "Additional Information": "Hanging over Geralds bed."
+        },
+        {
+          "Idea": "Evening Sun",
+          "Can be Found": "The sky",
+          "Additional Information": "The Sun during the evening. Listen for the bell in Palm Brinks. (Lake is \nbest place to get clear shot)"
+        },
+        {
+          "Idea": "Eyeball",
+          "Can be Found": "Dell Clinic",
+          "Additional Information": "A large glass eye."
+        },
+        {
+          "Idea": "Fan",
+          "Can be Found": "Cedrics Shop",
+          "Additional Information": "Near the top of the stairs."
+        },
+        {
+          "Idea": "Fence",
+          "Can be Found": "Surrounding Maxs House",
+          "Additional Information": "A metal fence."
+        },
+        {
+          "Idea": "Figure",
+          "Can be Found": "Parns Art Studio",
+          "Additional Information": "The sculptures of women."
+        },
+        {
+          "Idea": "Fireplace",
+          "Can be Found": "Maxs House",
+          "Additional Information": "Geralds Room. The large open fireplace."
+        },
+        {
+          "Idea": "Fish",
+          "Can be Found": "Maxs House, Kitchen",
+          "Additional Information": "On the table, a large fish."
+        },
+        {
+          "Idea": "Flag",
+          "Can be Found": "Palm Brinks Main Street",
+          "Additional Information": "The little yellow and orange flags strung up across the street."
+        },
+        {
+          "Idea": "Flower",
+          "Can be Found": "Maxs House\nServants Quarters",
+          "Additional Information": "Up the stairs to the top. Look on the desk."
+        },
+        {
+          "Idea": "Flower Chair",
+          "Can be Found": "Palm Brinks Train Station",
+          "Additional Information": "The decorative items either side of the door."
+        },
+        {
+          "Idea": "Fountain",
+          "Can be Found": "Palm Brinks, outside train station",
+          "Additional Information": "A large fountain."
+        },
+        {
+          "Idea": "Freight Train",
+          "Can be Found": "Palm Brinks Station",
+          "Additional Information": "On one of the tracks over to the right."
+        },
+        {
+          "Idea": "Gate",
+          "Can be Found": "Outside Maxs House",
+          "Additional Information": "The metal gate at the end of the pathway to the front door."
+        },
+        {
+          "Idea": "Glasses Case",
+          "Can be Found": "Mayor Needs Office in City Hall",
+          "Additional Information": "A display case with pairs of glasses inside."
+        },
+        {
+          "Idea": "Gold Store",
+          "Can be Found": "Weapon Shop in Palm Brinks",
+          "Additional Information": "Next to Show Window in wall."
+        },
+        {
+          "Idea": "Hoe",
+          "Can be Found": "Outside Mortons house",
+          "Additional Information": "Look for the gardening tool propped up near the pumpkin patch."
+        },
+        {
+          "Idea": "Iron Bridge",
+          "Can be Found": "Underground Water Channel\nExit",
+          "Additional Information": "When you emerge out of the Underground Water Channel, take a picture of one \nof the bridges."
+        },
+        {
+          "Idea": "Iron Maiden",
+          "Can be Found": "Palm Brinks Weapon Shop",
+          "Additional Information": "On the lower floor of the Weapon Shop, you'll see a large metal cabinet. \nGet a picture of it."
+        },
+        {
+          "Idea": "Ladder",
+          "Can be Found": "Parns Art Studio",
+          "Additional Information": "There are ladders in Parns place. Get a pic of one of them."
+        },
+        {
+          "Idea": "Lamp",
+          "Can be Found": "Palm Brinks Weapon Shop",
+          "Additional Information": "The blue lamps on the wall."
+        },
+        {
+          "Idea": "Letter",
+          "Can be Found": "Maxs House\nServants Quarters",
+          "Additional Information": "On the desk up the stairs will be a letter."
+        },
+        {
+          "Idea": "Light",
+          "Can be Found": "Palm Brinks Weapon Shop",
+          "Additional Information": "The blue light on the ceiling."
+        },
+        {
+          "Idea": "Mailbox",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "One outside the Weapon Shop."
+        },
+        {
+          "Idea": "Manhole",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "Get a pic of the Manhole next to Cedrics Shop that leads to the Underground \nWater Channel."
+        },
+        {
+          "Idea": "Milk Can",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "Outside Pollys Bakery"
+        },
+        {
+          "Idea": "Monument",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "The tall white structure you see as you head towards lake."
+        },
+        {
+          "Idea": "Morning Sun",
+          "Can be Found": "The sky",
+          "Additional Information": "As night fades you'll hear a bell if your in Palm Brinks signalling \nMorning. Catch a picture of the rising Sun. The lake would be a good place."
+        },
+        {
+          "Idea": "Mortons Sundries Sign",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "The pumpkin outside Mortons Sundries with the sign sticking out of it."
+        },
+        {
+          "Idea": "Old Style Robot",
+          "Can be Found": "Cedrics Shop",
+          "Additional Information": "The little robot right next to the door."
+        },
+        {
+          "Idea": "Oven",
+          "Can be Found": "Pollys Bakery",
+          "Additional Information": "The oven behind the counter."
+        },
+        {
+          "Idea": "Painting",
+          "Can be Found": "Parns Art Studio",
+          "Additional Information": "The painting of Parn and Julia."
+        },
+        {
+          "Idea": "Paints",
+          "Can be Found": "Parns Art Studio",
+          "Additional Information": "The cans of paint."
+        },
+        {
+          "Idea": "Palm Tree",
+          "Can be Found": "Maxs House\nCorridor",
+          "Additional Information": "In the corridor leading to kitchen, one of the plants there."
+        },
+        {
+          "Idea": "Parasol",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "The umbrellas over tables. Look near main river."
+        },
+        {
+          "Idea": "Parns Studio Sign",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "The sign for Parns Art Studio."
+        },
+        {
+          "Idea": "Phone",
+          "Can be Found": "Maxs House\nServants Quarters",
+          "Additional Information": "When you enter and go up the short stairs into the room, the phone is below \nthe camera angle at the top of those stairs."
+        },
+        {
+          "Idea": "Phonograph",
+          "Can be Found": "Mayor Needs Office in City Hall",
+          "Additional Information": "The gramaphone near the hourglass clock."
+        },
+        {
+          "Idea": "Piano",
+          "Can be Found": "Maxs House or Bar",
+          "Additional Information": "In the corner of the lobby of Maxs house, or in the Bar."
+        },
+        {
+          "Idea": "Pier",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "The pier on the lake where you find Fabio."
+        },
+        {
+          "Idea": "Pipe",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "Cedrics Shops roof. The lower half."
+        },
+        {
+          "Idea": "Police Sign",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "The sign above the Police Station"
+        },
+        {
+          "Idea": "Pollys Bakery Sign",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "The board or Sunshade outside the Bakery."
+        },
+        {
+          "Idea": "Post",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "One of the large metal posts outside Cedrics Shop."
+        },
+        {
+          "Idea": "Pot",
+          "Can be Found": "Maxs House\nKitchen",
+          "Additional Information": "A small pot to right of fireplace."
+        },
+        {
+          "Idea": "Pumpkin",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "Outside Mortons Shop or his house."
+        },
+        {
+          "Idea": "Railroad",
+          "Can be Found": "Palm Brinks Train Station",
+          "Additional Information": "The railway tracks"
+        },
+        {
+          "Idea": "Rapper",
+          "Can be Found": "Cedrics Shop",
+          "Additional Information": "The trumpet/horn thing near the entrance."
+        },
+        {
+          "Idea": "Refridgerator",
+          "Can be Found": "Mortons Sundries",
+          "Additional Information": "The large refridgerator just up the stairs."
+        },
+        {
+          "Idea": "Register",
+          "Can be Found": "Any shop",
+          "Additional Information": "Any shop wil do. Take a picture of the cash register."
+        },
+        {
+          "Idea": "Rifle",
+          "Can be Found": "Geralds Room",
+          "Additional Information": "On the wall above the door."
+        },
+        {
+          "Idea": "River",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "The main river the Drawbridge crosses."
+        },
+        {
+          "Idea": "Robot",
+          "Can be Found": "Maxs Room",
+          "Additional Information": "A robot he was working on."
+        },
+        {
+          "Idea": "Rock",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "Near the Lake"
+        },
+        {
+          "Idea": "Rug",
+          "Can be Found": "Palm Brinks Church",
+          "Additional Information": "The carpet lining the main aisle."
+        },
+        {
+          "Idea": "Saw",
+          "Can be Found": "Dell Clinic",
+          "Additional Information": "Behind where Doctor Dell stands."
+        },
+        {
+          "Idea": "Shield",
+          "Can be Found": "Palm Brinks Weapon Shop",
+          "Additional Information": "On the shelf."
+        },
+        {
+          "Idea": "Show Window",
+          "Can be Found": "Palm Brinks Weapon Shop",
+          "Additional Information": "Next to Gold Store in wall."
+        },
+        {
+          "Idea": "Shrubbery",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "Beneath most windows."
+        },
+        {
+          "Idea": "Sign",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "The small blank signs hanging from many buildings."
+        },
+        {
+          "Idea": "Stained Glass",
+          "Can be Found": "Maxs house",
+          "Additional Information": "Look above the front door."
+        },
+        {
+          "Idea": "Staircase",
+          "Can be Found": "Palm Brinks Train Station",
+          "Additional Information": "The main staircase."
+        },
+        {
+          "Idea": "Stand",
+          "Can be Found": "Mayor Needs Office in City Hall",
+          "Additional Information": "The lamp on his desk."
+        },
+        {
+          "Idea": "Stove",
+          "Can be Found": "Maxs House\nKitchen",
+          "Additional Information": "The open fireplace."
+        },
+        {
+          "Idea": "Streetlight",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "There's one between Cedrics Shop and the Police Station."
+        },
+        {
+          "Idea": "Sunshade",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "Above every door."
+        },
+        {
+          "Idea": "Table",
+          "Can be Found": "Everywhere, try Cedrics Shop",
+          "Additional Information": "On the lower floor where you find the Scoop Memo and Camera."
+        },
+        {
+          "Idea": "Telescope",
+          "Can be Found": "Maxs Room",
+          "Additional Information": "The telescope pointing towards the window."
+        },
+        {
+          "Idea": "The Moon",
+          "Can be Found": "The sky",
+          "Additional Information": "Look up at night and get a picture of the moon."
+        },
+        {
+          "Idea": "The Sun",
+          "Can be Found": "The sky",
+          "Additional Information": "Look up in the afternoon and get a picture of the bright sun."
+        },
+        {
+          "Idea": "Tiny Hammer",
+          "Can be Found": "Cedrics Shop",
+          "Additional Information": "On the wall near the top of the stairs."
+        },
+        {
+          "Idea": "Traffic Light",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "Above the large drawbridge."
+        },
+        {
+          "Idea": "Trashcan",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "Outside Cedrics Shop."
+        },
+        {
+          "Idea": "Tree",
+          "Can be Found": "Everywhere",
+          "Additional Information": "You'll find trees all over the place."
+        },
+        {
+          "Idea": "Vacuum",
+          "Can be Found": "Cedrics Shop",
+          "Additional Information": "The Vacuum Max works on during the prologue."
+        },
+        {
+          "Idea": "Vacuum Bag",
+          "Can be Found": "Cedrics Shop",
+          "Additional Information": "Near the back of the shop is a trashcan under a white cloth. Take a picture \nof it."
+        },
+        {
+          "Idea": "Vegetables/Fruit",
+          "Can be Found": "Mortons Sundries",
+          "Additional Information": "You'll see a large watermelon sticking out of the fridge. This can be used \nto get this one."
+        },
+        {
+          "Idea": "Vending Machine",
+          "Can be Found": "Mortons Sundries",
+          "Additional Information": "Next to door, on Maxs right as you enter."
+        },
+        {
+          "Idea": "Waterfall",
+          "Can be Found": "Underground Water Channel\nExit",
+          "Additional Information": "After emerging from the Underground Water Channel, get a pic of the water \ngushing from the pipe."
+        },
+        {
+          "Idea": "Weapon",
+          "Can be Found": "Palm Brinks Weapon Shop",
+          "Additional Information": "One of the weapons in the boxes near the counter."
+        },
+        {
+          "Idea": "Weapon Shop Sign",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "The pink emblem on the wall outside the Weapon Shop."
+        },
+        {
+          "Idea": "Weight Gauge",
+          "Can be Found": "Cedrics Shop",
+          "Additional Information": "The tall set of scales near the door."
+        },
+        {
+          "Idea": "Wheat Flour",
+          "Can be Found": "Pollys Bakery",
+          "Additional Information": "The flour sacks."
+        },
+        {
+          "Idea": "Wheel",
+          "Can be Found": "Palm Brinks Bar",
+          "Additional Information": "High on left wall."
+        },
+        {
+          "Idea": "Window",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "On every building."
+        },
+        {
+          "Idea": "Wooden Box",
+          "Can be Found": "Cedrics Shop",
+          "Additional Information": "There are wooden boxes near the back"
+        }
+    ],
+    "Chapter2":[
+      {
+          "Idea": "Idea",
+          "Can be Found": "Can be Found",
+          "Additional Information": "Additional Information"
+        },
+        {
+          "Idea": "Coal",
+          "Can be Found": "Inside Blackstone One",
+          "Additional Information": "Easily spotted in the main engine."
+        },
+        {
+          "Idea": "Firehouse",
+          "Can be Found": "Inside Blackstone One",
+          "Additional Information": "The main furnace that powers the engine."
+        },
+        {
+          "Idea": "Fruit",
+          "Can be Found": "Sindain",
+          "Additional Information": "Construct a Fruit Tree and take a pic of the yellow fruit hanging from it."
+        },
+        {
+          "Idea": "Grass",
+          "Can be Found": "Sindain",
+          "Additional Information": "Grass is constructable in Georama. but there are a few patches already in \nSindain when you first arrive. Photograph one of the patches."
+        },
+        {
+          "Idea": "Hammock",
+          "Can be Found": "Firbits House",
+          "Additional Information": "Hammock is strung up near back."
+        },
+        {
+          "Idea": "Juraks Arms Sign",
+          "Can be Found": "Jurak Mall",
+          "Additional Information": "**Missable**The upper left shop. Take a picture of the sign. (get before \nfinishing chapter 7)"
+        },
+        {
+          "Idea": "Juraks Eye",
+          "Can be Found": "Sindain",
+          "Additional Information": "Constructable in Georama."
+        },
+        {
+          "Idea": "Juraks Nose",
+          "Can be Found": "Sindain",
+          "Additional Information": "Constructable in Georama."
+        },
+        {
+          "Idea": "Log",
+          "Can be Found": "Sindain",
+          "Additional Information": "Constructable in Georama. Some are there already."
+        },
+        {
+          "Idea": "Mushroom",
+          "Can be Found": "Jurak Mall",
+          "Additional Information": "**Missable* *The glowing mushrooms scattered around. (get before finishing \nchapter 7)"
+        },
+        {
+          "Idea": "Mushroom Burgers Sign",
+          "Can be Found": "Jurak Mall",
+          "Additional Information": "**Missable* *The shop up the ladder. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Pot Torch",
+          "Can be Found": "Sindain",
+          "Additional Information": "Constructable in Georama."
+        },
+        {
+          "Idea": "Quartz",
+          "Can be Found": "Jurak Mall",
+          "Additional Information": "**Missable* *Above Juraks Arms Sign. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Water Wheel",
+          "Can be Found": "Sindain",
+          "Additional Information": "Constructable in Georama."
+        },
+        {
+          "Idea": "Withered Jurak",
+          "Can be Found": "Sindain",
+          "Additional Information": "At the back of Sindain near the time portal. The large withered tree."
+        },
+        {
+          "Idea": "Wooden Bookshelf",
+          "Can be Found": "Firbits House",
+          "Additional Information": "A bookshelf that looks like a tree truck."
+        },
+        {
+          "Idea": "Woody Tailor Sign",
+          "Can be Found": "Jurak Mall",
+          "Additional Information": "**Missable* *The sign of bottom the shop. (get before finishing chapter 7)"
+        }
+    ],
+    "Chapter3":[
+      {
+          "Idea": "Basket Steamer",
+          "Can be Found": "Balance Valley",
+          "Additional Information": "On the Chinese Stand once it's constructed."
+        },
+        {
+          "Idea": "Chinese Lantern",
+          "Can be Found": "Balance Valley",
+          "Additional Information": "Hanging from the Chinese Stand once it's constructed."
+        },
+        {
+          "Idea": "Crescent Shaped Light",
+          "Can be Found": "Starlight Temple\nStar Items",
+          "Additional Information": "**Missable** (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Electric Bulletin",
+          "Can be Found": "Fish Contest / Finny Frenzy Tent.",
+          "Additional Information": "Inside the Fish Contest tent will be a large information screen. Get a \npicture of it."
+        },
+        {
+          "Idea": "Fishing Contest Sign",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "When  a Fishing Contest is available, take a picture of the sign above the \ntent entrance."
+        },
+        {
+          "Idea": "Fresco Painting",
+          "Can be Found": "Balance Valley Church",
+          "Additional Information": "On the wall of the church near the door."
+        },
+        {
+          "Idea": "Giant Yorda Tree",
+          "Can be Found": "Starlight Canyon\nYordas Valley",
+          "Additional Information": "The gigantic tree."
+        },
+        {
+          "Idea": "Glowing Gate",
+          "Can be Found": "Fishing Contest / Finny Frenzy Tent",
+          "Additional Information": "The arch of pink lights over the entrance inside."
+        },
+        {
+          "Idea": "Hand Sewn Silk Flag",
+          "Can be Found": "Balance Valley",
+          "Additional Information": "On the Chinese Stand."
+        },
+        {
+          "Idea": "Hat",
+          "Can be Found": "Starlight Temple",
+          "Additional Information": "**Missable**In the Weapon shop. A large pointed hat. (get before finishing \nchapter 7)"
+        },
+        {
+          "Idea": "Holy Emblem",
+          "Can be Found": "Balance Valley Church",
+          "Additional Information": "Once the church is constructed, the emblem can be found either high up on \nthe steeple, or inside."
+        },
+        {
+          "Idea": "Horn",
+          "Can be Found": "Starlight Temple",
+          "Additional Information": "**Missable** Inside Weapon Shop. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Lao Chaos Trademark",
+          "Can be Found": "Starlight Temple\nLao Chaos Bistro",
+          "Additional Information": "**Missable** The symbol on the wall above Lao Chaos head. (get before \nfinishing chapter 7)"
+        },
+        {
+          "Idea": "Laundry",
+          "Can be Found": "Balance Valley",
+          "Additional Information": "A constructable Georama item. Must be attached to a house."
+        },
+        {
+          "Idea": "Lins House",
+          "Can be Found": "Balance Valley",
+          "Additional Information": "You'll see Lins House as soon as you enter the valley. Just take a picture \nof the house from outside."
+        },
+        {
+          "Idea": "Peeping Pole",
+          "Can be Found": "Starlight Temple\nStar Items",
+          "Additional Information": "**Missable** Looks like a telescope. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Pork Dumpling",
+          "Can be Found": "Starlight Temple\nLao Chaos Bistro",
+          "Additional Information": "**Missable** A round white food item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Rotating Sign",
+          "Can be Found": "Balance Valley",
+          "Additional Information": "On top of the Chinese Stand once it's constructed."
+        },
+        {
+          "Idea": "Runaway Dragon",
+          "Can be Found": "Starlight Temple\nLao Chaos Bistro",
+          "Additional Information": "**Missable** The dragon pattern going around near the roof. (get before \nfinishing chapter 7)"
+        },
+        {
+          "Idea": "Saints Writings",
+          "Can be Found": "Balance Valley\nChurch",
+          "Additional Information": "The book on top of the alter."
+        },
+        {
+          "Idea": "Scale",
+          "Can be Found": "Fishing Contest Tent",
+          "Additional Information": "The scale used to weigh fish."
+        },
+        {
+          "Idea": "Scroll",
+          "Can be Found": "Starlight Temple\nLao Chaos Bistro",
+          "Additional Information": "**Missable** The hanging scrolls on the walls. (get before finishing \nchapter 7)"
+        },
+        {
+          "Idea": "Special Peking Duck",
+          "Can be Found": "Starlight Temple\nLao Chaos Bistro",
+          "Additional Information": "**Missable** A cooked duck breast on the main counter. (get before \nfinishing chapter 7)"
+        },
+        {
+          "Idea": "Star Lamp",
+          "Can be Found": "Balance Valley",
+          "Additional Information": "A special constructable Georama lamp. Must be attached to a house."
+        },
+        {
+          "Idea": "Star Glass",
+          "Can be Found": "Starlight Temple\nStar Items",
+          "Additional Information": "**Missable** Above the counter. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Torch",
+          "Can be Found": "Balance Valley",
+          "Additional Information": "The flaming torches near Lins house."
+        },
+        {
+          "Idea": "Victory Stand",
+          "Can be Found": "Fishing Contest / Finny Frenzy Tent",
+          "Additional Information": "The award podium in the Fishing Contest Tent."
+        },
+        {
+          "Idea": "Warehouse",
+          "Can be Found": "Balance Valley",
+          "Additional Information": "A constructable Georama item. Must be attached to a house."
+        },
+        {
+          "Idea": "Weather Vane",
+          "Can be Found": "Balance Valley",
+          "Additional Information": "A constructable Georama item. Must be attached to a house."
+        },
+        {
+          "Idea": "Well",
+          "Can be Found": "Balance Valley",
+          "Additional Information": "A constructable Georama item."
+        }
+    ],
+    "Chapter4":[
+      {
+          "Idea": "Air Cleaner",
+          "Can be Found": "Luna Lab",
+          "Additional Information": "**Missable** In the four smaller labs, in the corner. (get before finishing \nchapter 7)"
+        },
+        {
+          "Idea": "Banana",
+          "Can be Found": "Inside Iron House",
+          "Additional Information": "Take a picture of the banana on the table."
+        },
+        {
+          "Idea": "Egg Chair",
+          "Can be Found": "Luna Lab",
+          "Additional Information": "**Missable** By each computor in the smaller labs. (get before finishing \nchapter 7)"
+        },
+        {
+          "Idea": "Egg Shaped Transmitter",
+          "Can be Found": "Inside Iron House",
+          "Additional Information": "A glowing egg device on the right."
+        },
+        {
+          "Idea": "Energy Pipe",
+          "Can be Found": "Luna Lab",
+          "Additional Information": "**Missable** The glowing pipes in the smaller labs. (get before finishing \nchapter 7)"
+        },
+        {
+          "Idea": "Fish Race Sign",
+          "Can be Found": "Palm Brinks",
+          "Additional Information": "Take a picture of the sign above the tent entrance."
+        },
+        {
+          "Idea": "Futuron 800",
+          "Can be Found": "Luna Lab",
+          "Additional Information": "**Missable** Main lab, large glowing columns with pipes. (get before \nfinishing chapter 7)"
+        },
+        {
+          "Idea": "Iron Shed",
+          "Can be Found": "Veniccio",
+          "Additional Information": "A constructable Georama item. It must be placed on top of an Iron House."
+        },
+        {
+          "Idea": "Light of Luna Stone",
+          "Can be Found": "Veniccio",
+          "Additional Information": "One of the constructable Georama items is a purple lamp. Build and place \none, then get a picture of it."
+        },
+        {
+          "Idea": "Luna Stone Shards",
+          "Can be Found": "Veniccio",
+          "Additional Information": "In the water of Veniccio, you'll notice tiny blue lights. These are Luna \nStone Shards. Take a picture of them."
+        },
+        {
+          "Idea": "Neo Projector",
+          "Can be Found": "Luna Lab",
+          "Additional Information": "**Missable** The projector hanging from the ceiling of the main lab. (get \nbefore finishing chapter 7)"
+        },
+        {
+          "Idea": "Opposed Island",
+          "Can be Found": "Finny Frenzy Tent",
+          "Additional Information": "The island in the middle of the race pool."
+        },
+        {
+          "Idea": "Red House",
+          "Can be Found": "Veniccio",
+          "Additional Information": "As soon as you enter Veniccio from the Train Station, look up on the cliffs \nopposite you."
+        },
+        {
+          "Idea": "Search Light",
+          "Can be Found": "Luna Lab",
+          "Additional Information": "**Missable** Structures standing in the water apart from the main \nfoundations. Look over railing to see them. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Small Generator",
+          "Can be Found": "Inside Iron House",
+          "Additional Information": "A rotating cogwheel."
+        },
+        {
+          "Idea": "System 5WP2",
+          "Can be Found": "Luna Lab",
+          "Additional Information": "**Missable** A device on the wall of the main lab, large, circular, \ncoloured yellow and purple.(get before finishing chapter 7)"
+        },
+        {
+          "Idea": "TV",
+          "Can be Found": "Inside Iron House",
+          "Additional Information": "A TV with static on screen."
+        },
+        {
+          "Idea": "Ventilation",
+          "Can be Found": "Inside Iron House",
+          "Additional Information": "Look to the ceiling."
+        },
+        {
+          "Idea": "Water Tank",
+          "Can be Found": "Finny Frenzy Tent",
+          "Additional Information": "The large Water Tanks around the far edges of the tent."
+        },
+        {
+          "Idea": "Windmill",
+          "Can be Found": "Veniccio",
+          "Additional Information": "Look to where the Red Houses are on the cliff. You'll see a small windmill \nwith them."
+        },
+        {
+          "Idea": "Windmill Feather",
+          "Can be Found": "Veniccio",
+          "Additional Information": "Construct the Windmill, then take a picture of the large Windmill Feathers."
+        },
+        {
+          "Idea": "Work Arm",
+          "Can be Found": "Luna Lab",
+          "Additional Information": "**Missable** Main lab, attached to Futuron 800. (get before finishing \nchapter 7)"
+        },
+        {
+          "Idea": "Work Equipment",
+          "Can be Found": "Luna Lab",
+          "Additional Information": "**Missable** Smaller labs, above the Work Robot. (see below)(get before \nfinishing chapter 7)"
+        },
+        {
+          "Idea": "Work Robot",
+          "Can be Found": "Luna Lab",
+          "Additional Information": "**Missable** In the smaller labs, the work table in the center. (get before \nfinishing chapter 7)"
+        }
+    ],
+    "Chapter5":[
+      {
+          "Idea": "Cinders",
+          "Can be Found": "Heim Rada",
+          "Additional Information": "**Missable** While embers are still raining down on Heim Rada, place a \nstraw or wood Georama item, (Straw Shed for example) then leave the area \nand come back. Take a picture of the ruins of what you placed. As soon as \nthe Fire Squall is destroyed, you will no longer be able to get this Idea."
+        },
+        {
+          "Idea": "Computer",
+          "Can be Found": "Gundorada Workshop\nOperations Room",
+          "Additional Information": "**Missable** Lining the Operations Room, or inside Paznos. (get before \nfinishing chapter 7)"
+        },
+        {
+          "Idea": "Decorative Lights",
+          "Can be Found": "Gundorada Workshop\nG-Parts",
+          "Additional Information": "**Missable** The string of pink lights. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Display Robo",
+          "Can be Found": "Gundorada Workshop\nG-Parts",
+          "Additional Information": "**Missable** A large robot being used as a display shelf on the left. (get \nbefore finishing chapter 7)"
+        },
+        {
+          "Idea": "Drum Can",
+          "Can be Found": "Gundorada workshop\nG-Parts",
+          "Additional Information": "**Missable** A drum can just opposite the Display Robo. (get before \nfinishing chapter 7)"
+        },
+        {
+          "Idea": "Electric Sesame",
+          "Can be Found": "Gundorada Workshop\nG-Parts",
+          "Additional Information": "**Missable** Look to the right. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Elevator",
+          "Can be Found": "Gundorada Workshop",
+          "Additional Information": "**Missable** The elevators that are used to reach different floors of the \nworkshop. (get before finishing chapter 7"
+        },
+        {
+          "Idea": "Generator",
+          "Can be Found": "Heim Rada",
+          "Additional Information": "Constructable Georama item."
+        },
+        {
+          "Idea": "Geyser",
+          "Can be Found": "Heim Rada",
+          "Additional Information": "**Missable** Take a photo of one of the Geysers that litter Heim Rada when \nyou first arrive. You place the Georama item 'Mud' on the Geysers to get \nrid of them. If you get rid of all of them before you get the picture, you \ncan no longer get it."
+        },
+        {
+          "Idea": "Hammer",
+          "Can be Found": "Gundorada Workshop\nG-Weapons",
+          "Additional Information": "**Missable** A hammer behind the counter. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Hot Springs Pond",
+          "Can be Found": "Heim Rada",
+          "Additional Information": "Get a picture of the Hot Springs."
+        },
+        {
+          "Idea": "Large Crane",
+          "Can be Found": "Heim Rada",
+          "Additional Information": "A constructable georama item. Must be attached to a house."
+        },
+        {
+          "Idea": "Mount Gundor",
+          "Can be Found": "Heim Rada",
+          "Additional Information": "Get a picture of Mount Gundor as it appears from Heim Rada."
+        },
+        {
+          "Idea": "Mud",
+          "Can be Found": "Heim Rada",
+          "Additional Information": "Constructable Georama item. If you place it on a Geyser, both will vanish, \nbut place it on flat ground and you'll have a pile of mud you can get a \npicture of."
+        },
+        {
+          "Idea": "Patterened Rug",
+          "Can be Found": "Gundorada Workshop\nG-Tools",
+          "Additional Information": "**Missable** A rug on the floor. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Paznos Pattern",
+          "Can be Found": "Gundorada Workshop\nPaznos",
+          "Additional Information": "**Missable** Once you board Paznos, the Pattern you need will be a small \nemblem above the main window. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Power Arm",
+          "Can be Found": "Heim Rada",
+          "Additional Information": "A constructable Georama item. Must be attached to a house."
+        },
+        {
+          "Idea": "Propeller",
+          "Can be Found": "Gundorada Workshop\nOperations Room",
+          "Additional Information": "**Missable** The fans hanging from the ceiling. (get before finishing \nchapter 7)"
+        },
+        {
+          "Idea": "Sulfer Coloured Juice",
+          "Can be Found": "Gundorada Workshop\nG-Items",
+          "Additional Information": "**Missable** A little bottle of yellow liquid on the floor to the left \nafter entering. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Transmission Device",
+          "Can be Found": "Gundorada Workshop",
+          "Additional Information": "**Missable** You can find these dotted around, one near the Time Portal. \nThey can be used to teleport to different areas of the workshop. Get a \npicture of one. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Work Crane",
+          "Can be Found": "Gundorada Workshop",
+          "Additional Information": "**Missable** The large protruding spikes coming from the third floor. (get \nbefore finishing chapter 7)"
+        }
+
+    ],
+    "Chapter6":[
+      {
+          "Idea": "Dead Tree",
+          "Can be Found": "Moon Flower Palace Stop",
+          "Additional Information": "**Missable** You'll see Dead Trees around when you get off Ixion. Get \ncloser to one and take the picture. (get before finishing chapter 6)"
+        },
+        {
+          "Idea": "Earth Alter",
+          "Can be Found": "Kazarov Stonehenge",
+          "Additional Information": "**Missable** The alter with the green light. (get before finishing chapter \n7)"
+        },
+        {
+          "Idea": "Fire Alter",
+          "Can be Found": "Kazarov Stonehenge",
+          "Additional Information": "**Missable** The alter with the red light. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Gold Gate",
+          "Can be Found": "Moon Flower Palace Stop",
+          "Additional Information": "**Missable** The large gate separating Ixion from the palace. (get before \nfinishing chapter 7)"
+        },
+        {
+          "Idea": "Hooked Nose",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** The large protruding horns above the palace entrance. (get \nbefore finishing chapter 7)"
+        },
+        {
+          "Idea": "Pinky",
+          "Can be Found": "Inside Ixion",
+          "Additional Information": "**Missable** The constructions with the rings at either end of each \ncarriage. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Water Alter",
+          "Can be Found": "Kazarov Stonehenge",
+          "Additional Information": "**Missable** The alter with the blue light. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Wind Alter",
+          "Can be Found": "Kazarov Stonehenge",
+          "Additional Information": "**Missable** The alter with the yellow light. (get before finishing chapter \n7)"
+        },
+        {
+          "Idea": "Idea",
+          "Can be Found": "Can be Found",
+          "Additional Information": "Additional Information"
+        },
+        {
+          "Idea": "Alexandras Bed",
+          "Can be Found": "Moon Flower Palace\nAlexandras Room",
+          "Additional Information": "**Missable** The bed in this dungeon floor. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Blue Lantern",
+          "Can be Found": "Moon Flower Palace\nFlower Garden",
+          "Additional Information": "**Missable** The Blue lights. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Camillia Tree",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable* *Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Flower Bathed in Light",
+          "Can be Found": "Moon Flower Palace\nFlower Garden",
+          "Additional Information": "**Missable** The flowers in the pots. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Flower Bed",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Flower Chandelier",
+          "Can be Found": "Moon Flower Palace\nSun Chamber",
+          "Additional Information": "**Missable** Look at the ceiling. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Golden Door",
+          "Can be Found": "Moon Flower Palace\nSun Chamber",
+          "Additional Information": "**Missable** The large door. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Labyrinth Door",
+          "Can be Found": "Moon Flower Palace\n Sun Chamber",
+          "Additional Information": "**Missable** The door you came from that leads back to the dungeon. (get \nbefore finishing chapter 7)"
+        },
+        {
+          "Idea": "Lotus Flower",
+          "Can be Found": "Moon Flower Palace\n Flower Garden",
+          "Additional Information": "**Missable** The little flowers floating on the water. (get before \nfinishing chapter 7)"
+        },
+        {
+          "Idea": "Moon Column",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Relaxation Fountain",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Road to Golbad",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Silver Bench",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Stardust Pond",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Starlight Stairway",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Starlight Tunnel",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. The tunnel underneath Starlight \nStairway. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Sun Chair",
+          "Can be Found": "Moon Flower Palace\nFlower Garden",
+          "Additional Information": "**Missable** The chair at the end of the path. (get before finishing \nchapter 7)"
+        },
+        {
+          "Idea": "Sun Table",
+          "Can be Found": "Moon Flower Palace\nFlower Garden",
+          "Additional Information": "**Missable** The table at the end of the path. (get before finishing \nchapter 7)"
+        },
+        {
+          "Idea": "Waterfall Curtain",
+          "Can be Found": "Moon Flower Palace\nFlower Garden",
+          "Additional Information": "**Missable** The curtains of water on either side. (get before finishing \nchapter 7)"
+        }
+    ],
+    "Chapter7":[
+      {
+          "Idea": "Idea",
+          "Can be Found": "Can be Found",
+          "Additional Information": "Additional Information"
+        },
+        {
+          "Idea": "Alexandras Bed",
+          "Can be Found": "Moon Flower Palace\nAlexandras Room",
+          "Additional Information": "**Missable** The bed in this dungeon floor. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Blue Lantern",
+          "Can be Found": "Moon Flower Palace\nFlower Garden",
+          "Additional Information": "**Missable** The Blue lights. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Camillia Tree",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable* *Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Flower Bathed in Light",
+          "Can be Found": "Moon Flower Palace\nFlower Garden",
+          "Additional Information": "**Missable** The flowers in the pots. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Flower Bed",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Flower Chandelier",
+          "Can be Found": "Moon Flower Palace\nSun Chamber",
+          "Additional Information": "**Missable** Look at the ceiling. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Golden Door",
+          "Can be Found": "Moon Flower Palace\nSun Chamber",
+          "Additional Information": "**Missable** The large door. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Labyrinth Door",
+          "Can be Found": "Moon Flower Palace\n Sun Chamber",
+          "Additional Information": "**Missable** The door you came from that leads back to the dungeon. (get \nbefore finishing chapter 7)"
+        },
+        {
+          "Idea": "Lotus Flower",
+          "Can be Found": "Moon Flower Palace\n Flower Garden",
+          "Additional Information": "**Missable** The little flowers floating on the water. (get before \nfinishing chapter 7)"
+        },
+        {
+          "Idea": "Moon Column",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Relaxation Fountain",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Road to Golbad",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Silver Bench",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Stardust Pond",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Starlight Stairway",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Starlight Tunnel",
+          "Can be Found": "Moon Flower Palace Garden",
+          "Additional Information": "**Missable** Constructable Georama item. The tunnel underneath Starlight \nStairway. (get before finishing chapter 7)"
+        },
+        {
+          "Idea": "Sun Chair",
+          "Can be Found": "Moon Flower Palace\nFlower Garden",
+          "Additional Information": "**Missable** The chair at the end of the path. (get before finishing \nchapter 7)"
+        },
+        {
+          "Idea": "Sun Table",
+          "Can be Found": "Moon Flower Palace\nFlower Garden",
+          "Additional Information": "**Missable** The table at the end of the path. (get before finishing \nchapter 7)"
+        },
+        {
+          "Idea": "Waterfall Curtain",
+          "Can be Found": "Moon Flower Palace\nFlower Garden",
+          "Additional Information": "**Missable** The curtains of water on either side. (get before finishing \nchapter 7)"
+        }
+    ],
+    "Chapter8":[
+      {
+          "Idea": "Mr Big Shots Shadow",
+          "Can be Found": "Zelmite Mine\nDepths",
+          "Additional Information": "Take a photo of the games final boss."
+        },
+        {
+          "Idea": "Zelmite found",
+          "Can be Found": "Zelmite Mine\nDepths",
+          "Additional Information": "The crystals embedded in the walls."
+        }
+    ]
+}

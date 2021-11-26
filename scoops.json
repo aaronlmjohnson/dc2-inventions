@@ -1,0 +1,295 @@
+{
+    "Unmissable":[
+        {
+            "Name": "Burning Dragon Fire",
+            "Location": "Starlight Canyon",
+            "Description": "You'll need to get a pic of a Dragons Fire Breath attack. Stand a shorrt \ndistance away and perhaps agro it with your gun. when you see it about to \nbreath fire, get ready and take the pic as it shoots. You will take damage \nso have some health items and Tasty Water available to cure the Thirst that \nDragon Fire gives you."
+          },
+          {
+            "Name": "Spinning Ivanoff",
+            "Location": "Starlight Canyon",
+            "Description": "Another that's bound to cause damage. Ivanoff are the large rock enemies \nthat roll at you at high speed. Again, stand a short distance away, agro it \nif needed and take the pic as it comes rolling towards you."
+          },
+          {
+            "Name": "Charging Ram",
+            "Location": "Starlight Canyon",
+            "Description": "Rams are the enemies with the large axes that you find early in Starlight \nCanyon. Same as the above two, snap a pic as it comes running towards you. \nIf you're quick, you may be able to pick up the Ram before it hits you by \nholding  and pressing . After you put the camera away obviously."
+          },
+          {
+            "Name": "Changing Dog Statue",
+            "Location": "Starlight Canyon",
+            "Description": "This one is tricky. The Dog Statues fold themselves into a cube when you \nmove too far away from them, them unfold when you get close. You need to \nget a picture of one while it's folding or unfolding. One strategy is to \nstand far enough away, but close enough to be able to target it, then fire \nthe gun at it. While the bullet is travelling, get the camera out and snap \nthe pic while it's unfolding. You'll need to be quick."
+          },
+          {
+            "Name": "Faintin' Bone Lord",
+            "Location": "Mt Gundor",
+            "Description": "Bone Lord is first found in Mt Gundor. They're the large skeletal enemies \nwith the massive sword. In order to stun one to get the picture, you'll \nneed to throw, either one of the rocks that are scattered around if there \nare any, or maybe another throwable enemy. When the Bone Lord is dazed and \nhas stars circling its head, get the picture."
+          },
+          {
+            "Name": "Night Stalker",
+            "Location": "Underground Water Channel",
+            "Description": "Night stalkers are the purple cloaked mage like enemies. They throw fire, \nor do a spinning attack. You need to get the picture while it's doing a \nspinning attack. Don't stand too far away or it'll just throw fire. Get \ncloser, just not TOO close."
+          },
+          {
+            "Name": "Dangerous Pumpkin",
+            "Location": "Rainbow Butterfly Wood",
+            "Description": "This one is pretty easy. The Pumpkin head enemies, when idle, sometimes \nspin their pitchforks around like a baton. Just get a picture of one doing \nthat. Just watch out for the explosives they throw."
+          },
+          {
+            "Name": "Hurray for Rock Man",
+            "Location": "Starlight Canyon",
+            "Description": "The giant Stone Golems first appear in Starlight Canyon. You can get this \npicture one of two ways. Either snap a pic of the idle animation where they \npump their arms in the air, or when they raise their arms for a ground \npound attack."
+          },
+          {
+            "Name": "Nice Massage",
+            "Location": "Starlight Canyon",
+            "Description": "Look for the enemy called 'Priest of Rama'. There's an idle animation they \nsometimes do where it looks like they use their massive hands to give \nthemselves a massage. Snap a picture of this humorous moment."
+          },
+          {
+            "Name": "Gyumos Yell",
+            "Location": "Rainbow Butterfly Wood",
+            "Description": "Gyumo looks like a large grey boar that can walk on 2 legs as well as run \non 4. On occasion it will raise its head and call out with a distinctive \nyell. Get a picture of one doing that."
+          },
+          {
+            "Name": "Spooky Grass Smile",
+            "Location": "Rainbow Butterfly Wood",
+            "Description": "The Man Eating Grass has an idle animation that looks like it bounces its \nhead slightly. Get a picture of one doing that."
+          },
+          {
+            "Name": "Barons Hangin' On",
+            "Location": "Underground Water Channel",
+            "Description": "The Vanguard is a mech enemy being driven by a Baron Balloon. One of it's \nattacks is to push itself in the air, flip unside down and stomp on top of \nyou. It only does this while close to you, so you will take damage. Get \nclose and point your camera up. When he does the jump up, get the pic of \nthe Baron Balloon upside down. Bring lots of healing items, or come back \nlater when your defense is higher."
+          },
+          {
+            "Name": "Tores Nap",
+            "Location": "Rainbow Butterfly Wood",
+            "Description": "An easy one this. Tore looks like a large tree. They remain idle until you \nget close. Get a picture of an idle one as it sleeps."
+          },
+          {
+            "Name": "Face Behind Devil Mask",
+            "Location": "Starlight Canyon",
+            "Description": "There are two ways to get this. When you find a Masked Tribeman, you can \nget close and wait for it to do it's bite attack, then get a picture of \nit's face through the open mouth, or throw something at it to daze it, and \nget a pic of it's face that way."
+          },
+          {
+            "Name": "Floatin' Earth Digger",
+            "Location": "Rainbow Butterfly Wood",
+            "Description": "This one is frustrating. You need to catch a picture of the Earth Digger in \nmid air as it jumps. These jumps are fast and unpredictable so it may take \nsome time. Make sure to stay at least some distance from it. If you're too \nclose you won't be able to get the picture before you get knocked off your \nfeet."
+          },
+          {
+            "Name": "Bomber Head Boom",
+            "Location": "Mt Gundor",
+            "Description": "Another tricky one. When you find a Bomber Head, weaken it to about 10-30% \nof its HP, then wait for it to do it's suicide attack. It's head will \nexpand and it will float towards you. Back away a bit then start snapping \nphotos to catch it as it explodes."
+          },
+          {
+            "Name": "Master Utan",
+            "Location": "Rainbow Butterfly Wood\nFish Monster Swamp",
+            "Description": "You'll find Master Utan near the exit point of this floor. Just take a pic \nof him any time."
+          },
+          {
+            "Name": "Veniccio's Evening Sun",
+            "Location": "Veniccio",
+            "Description": "Just like the 'Evening Sun' Idea, but this one is specifically in Veniccio."
+          },
+          {
+            "Name": "Ancient Mural",
+            "Location": "Oceans Roar Cave\nCave of Ancient Murals",
+            "Description": "Take a picture of the large mural on the wall. You can't miss it, it's the \nsame as the one seen on the title screen."
+          },
+          {
+            "Name": "Lafrecia Stem",
+            "Location": "Rainbow Butterfly Wood\nRainbow Falls",
+            "Description": "Take a photo of the giant Lafrecia Stem after blooming it. you can come \nhere for the pic any time you want."
+          },
+          {
+            "Name": "Earth Gem Alter",
+            "Location": "Rainbow Butterfly Wood\nChamber of the Sleeping Earth Gem",
+            "Description": "After beating the Guardian, take a photo of the Alter. It doesn't matter if \nyou do it before or after picking up the gem."
+          },
+          {
+            "Name": "Wind Gem Alter",
+            "Location": "Starlight Canyon\nChamber of the Defending wind Gem",
+            "Description": "After beating the Guardian, take a photo of the Alter. It doesn't matter if \nyou do it before or after picking up the gem."
+          },
+          {
+            "Name": "Water Gem Alter",
+            "Location": "Oceans Roar Cave\nChamber  of the Sleeping Water Gem",
+            "Description": "After beating the Guardian, take a photo of the Alter. It doesn't matter if \nyou do it before or after picking up the gem."
+          },
+          {
+            "Name": "Fire Gem Alter",
+            "Location": "Mt Gundor\nChamber of the Blazing Fire Gem",
+            "Description": "After beating the Guardian, take a photo of the Alter. It doesn't matter if \nyou do it before or after picking up the gem."
+          },
+          {
+            "Name": "Lava Road",
+            "Location": "Mt Gundor Mouth",
+            "Description": "After using the Fire Horn that Galen Agaris gives you, take a picture of \nthe path that opened up through the lava."
+          },
+          {
+            "Name": "Fallen Battleship",
+            "Location": "Mt Gundor Mouth",
+            "Description": "After crossing the Lava Road, you'll fight The Ultimate Gaspard (see \nMissable Scoop List) next to the Fallen Battleship. Take a picture of the \nwreck. If you miss it, you can come back to this floor any time."
+          },
+          {
+            "Name": "Ruler of the Pond",
+            "Location": "Palm Brinks Lake",
+            "Description": "The first of the 3 Ghost Scoops. Visit Palm Brinks lake and after midnight, \nstart taking pictures looking across the lake. In the brief moment of the \ncamera shutter, you should see a white haze. Point your camera at it and \n take the picture."
+          },
+          {
+            "Name": "A Surviving Soldier",
+            "Location": "Veniccio",
+            "Description": "The second of the Ghost scoops. In Veniccio, head out to sea as far as you \ncan, so that Oceans Roar Cave is on the right, and look left. You should \nsee a small tunnel. head inside it as far as you can and stick to the right \nwall. See that rock on the left? Aim your camera just behind that rock at \nsome point after midnight and look for that white haze as you click the \nshutter."
+          },
+          {
+            "Name": "Hot Springs Spirit",
+            "Location": "Heim Rada",
+            "Description": "The third Ghost Scoop. Go to the Hot Springs in Heim Rada around midnight, \nand as you descend the slope, the ghost will be on the right hand set of \nhot springs. Stand at the waters edge, and click the shutter while looking \naround, keeping an eye out for that familiar white haze."
+          }
+    ],
+    "Missable":[
+        {
+            "Name": "Brave Little Linda",
+            "Location": "Underground Water Channel\nPump Room",
+            "Description": "When Linda lifts her front legs for a stomp attack, snap the picture.",
+            "Point at which you missed it": "As soon as you beat Linda."
+          },
+          {
+            "Name": "Clowns Robo Attack",
+            "Location": "Underground Water Channel\nBoss Room",
+            "Description": "When the Robo opens it's eyes to shoot missiles. Get the pic of it's open \neyes. (bring plenty of healing items just in case)",
+            "Point at which you missed it": "When Clown Robo is defeated."
+          },
+          {
+            "Name": "Hmmmm! Jurak",
+            "Location": "Jurak Mall",
+            "Description": "Just take a picture of Jurak once you've revived him.",
+            "Point at which you missed it": "When you complete chapter 7. All future areas become inaccessable."
+          },
+          {
+            "Name": "King Marden",
+            "Location": "Rainbow Butterfly Wood\nFish Monster Swamp",
+            "Description": "Take a picture of King Marden after fishing him up.",
+            "Point at which you missed it": "After giving him the Priscleen fish. He won't appear again."
+          },
+          {
+            "Name": "Rainbow Butterfly Reunited",
+            "Location": "Rainbow Butterfly Wood\nRainbow Falls",
+            "Description": "Attack the yellow strands in the middle of the flower and the Rainbow \nButterfly will divide. You need to attack the small butterflies in order of \ncolor to beat the boss, so attack any except the red one. Take the pic when \nthe Rainbow Butterfly is big again.",
+            "Point at which you missed it": "After hitting the 7th butterfly following the correct color sequence."
+          },
+          {
+            "Name": "Find the Golden Egg",
+            "Location": "Jurak Mall",
+            "Description": "You need to restore Jurak Mall Georama to 100% to get the Golden Egg to \nappear. (one hidden Georama goal is to put a fence around the Firbits \nHouse, see  GeoraManiac for more info). The egg will be in a nest on a \nbranch above you. Just take a pic of it.",
+            "Point at which you missed it": "When you complete chapter 7."
+          },
+          {
+            "Name": "Phantom Memo Eater",
+            "Location": "Starlight Canyon\nYordas Valley",
+            "Description": "After healing Lin she'll join your party (temporarily). When you bring her \nto Yordas Valley, the Phantom Memo Eater mini boss will appear. Take a \npicture of it.",
+            "Point at which you missed it": "As soon as you beat it."
+          },
+          {
+            "Name": "Flying Battleship",
+            "Location": "Starlight Canyon Cape Lighthouse/Oceans Roar Cave Shigura Village/Mt Gundor \nPeak",
+            "Description": "You'll have 3 opportunities to take a picture of the Death Ark, Gaspards \nFlying Battleship. While defending Lin at the Lighthouse at the end of \nchapter 3, when fighting Doctor Jaming at the end of chapter 4, or when \nattacking the Death Ark mid way through chapter 5.",
+            "Point at which you missed it": "As soon as you beat it at Mt Gundor, it'll fall."
+          },
+          {
+            "Name": "Moon Crystal",
+            "Location": "Starlight Temple",
+            "Description": "When you've completed Balance Valleys Georama to 100%, go into the future, \nand the Moon Crystal will be sitting at the top.",
+            "Point at which you missed it": "When you complete chapter 7."
+          },
+          {
+            "Name": "Puppet Shingala",
+            "Location": "Oceans Roar Cave\nCave of Ancient Murals",
+            "Description": "When you first see Puppet Shingala, it'll be a cutscene. You won't get the \nchance for a pic until you come back with an Electric Fish. Take the \npicture before doing anything else.",
+            "Point at which you missed it": "As soon as you succeed in throwing the Electric Fish into Shingalas mouth."
+          },
+          {
+            "Name": "Doctor Jaming",
+            "Location": "Oceans Roar Cave\nShigura Village",
+            "Description": "The boss of chapter 4 will be Doctor Jaming and a few controlled Shigura. \nDoctor Jaming will be circling overhead as you attempt to knock him out of \nthe air. Take the pic before you beat him.",
+            "Point at which you missed it": "As soon as you beat him."
+          },
+          {
+            "Name": "Symbol of Luna Lab",
+            "Location": "Luna Lab",
+            "Description": "Completing Veniccios Georama to 100% will restore The Symbol of Luna Lab, a \nlarge construct atop the central lab. Visit the lab and take a pic of it.",
+            "Point at which you missed it": "When you complete chapter 7."
+          },
+          {
+            "Name": "Fire Squall",
+            "Location": "Mt Gundor Peak",
+            "Description": "When you reach the top of Mt Gundor, you'll see the Fire Squall to the \nleft. Take a picture before you plant the bomb you get from the future. \n(destroying it will also miss the idea 'Cinders'. See Ideas section for \nmore info)",
+            "Point at which you missed it": "As soon as you plant the bomb."
+          },
+          {
+            "Name": "The Ultimate Gaspard",
+            "Location": "Mt Gundor Mouth",
+            "Description": "When you reach the base of the volcano, take a picture of the transformed \nGaspard.",
+            "Point at which you missed it": "As soon as you beat him."
+          },
+          {
+            "Name": "Paznos",
+            "Location": "Gundorada Workshop",
+            "Description": "Completing Heim Radas Georama to 100% will restore Paznos, the rebel \nfortress. Take a pic of it.",
+            "Point at which you missed it": "When you complete chapter 7."
+          },
+          {
+            "Name": "Ixion",
+            "Location": "Moon Flower Palace Stop",
+            "Description": "Moon Flower Palace Stop is the first opportunity to take a picture of the \nIxion, the time travelling train, but you have any time during chapters 6 \nand 7 to get a picture.",
+            "Point at which you missed it": "When you complete chapter 7, you go back to using Blackstone One."
+          },
+          {
+            "Name": "Griffons Real Face",
+            "Location": "Moon Flower Palace Foyer",
+            "Description": "Chapter 6 has a boss fight at the beginning rather than at the end. That \nfight is with Griffon. Take a picture of him during the battle.",
+            "Point at which you missed it": "As soon as you beat him."
+          },
+          {
+            "Name": "Kazarov Stonehenge",
+            "Location": "Kazarov Stonehenge",
+            "Description": "Take a picture of the central monument in Kazarov Stonehenge. You visit \nhere early in chapter 6.",
+            "Point at which you missed it": "When you complete chapter 7, you can no longer visit the Stonehenge."
+          },
+          {
+            "Name": "Moon Flower Palace",
+            "Location": "Moon Flower Palace Garden (Georama)",
+            "Description": "You need to take a picture of the front doors of the Palace. You can do \nthis at the start of chapter 6 or any time during chapter 7.",
+            "Point at which you missed it": "When you complete chapter 7, the Palace can't be visited again."
+          },
+          {
+            "Name": "Gigantor Paznos",
+            "Location": "Kazarov Stonehenge",
+            "Description": "After the cool cutscenes with the Chrono Union at the end of chapter 6, you \ncan see Gigantor Paznos. You'll start right next to Ixion. Just run back \ntoward the Stonehenge a bit, then turn around and take a picture of \nGigantor Paznos.",
+            "Point at which you missed it": "When you complete chapter 7."
+          },
+          {
+            "Name": "Flower of the Sun",
+            "Location": "Moon Flower Palace\nFlower Garden",
+            "Description": "The split path on the dungeon floor map for Moon Flower Palace leads to a \ndead end, where you'll find a Flower Garden. Here, you will locate the \nFlower of the Sun. An item needed for the dungeon floor 'Alexandras Room'. \nTake a pic of it before picking it up, or after placing it in Alexandras \nRoom.",
+            "Point at which you missed it": "When you complete Chapter 7."
+          },
+          {
+            "Name": "Sun Chamber Gatekeeper",
+            "Location": "Moon Flower Palace\nSun Chamber",
+            "Description": "The last floor contains a large golden gate, guarded by a Gargoyle. Take a \npic of the Gargoyle before answering it's question.",
+            "Point at which you missed it": "When you complete chapter 7."
+          },
+          {
+            "Name": "Legend of the Moon",
+            "Location": "Dream Spiral (top)",
+            "Description": "During the final story boss at the end of chapter 7, you'll see the Moon of \nDestruction in the sky. Get a picture of it. Just watch out for Dark \nElements attacks.",
+            "Point at which you missed it": "When you beat Dark Element."
+          },
+          {
+            "Name": "Flotsam Revived",
+            "Location": "Zelmite Mine\nSuspicious Opening",
+            "Description": "When you reach this floor, you'll meet your old pal Flotsam, who's after \nsome of that sweet revenge. Take a pic of his new look before you beat him.",
+            "Point at which you missed it": "When you beat him."
+          }
+    ]
+}

@@ -1,0 +1,898 @@
+[
+    {
+      "Invention": "Aquarium",
+      "Idea 1": "Fountain",
+      "Idea 2": "Window",
+      "Idea 3": "Wooden Box",
+      "What is it?": "Used to feed and raise fish"
+    },
+    {
+      "Invention": "Bandit Brassard",
+      "Idea 1": "Clock",
+      "Idea 2": "Gold Store",
+      "Idea 3": "Show Window",
+      "What is it?": "Magic Bracelet for Monica"
+    },
+    {
+      "Invention": "Bell Trigger",
+      "Idea 1": "Fountain",
+      "Idea 2": "Phone",
+      "Idea 3": "Tree",
+      "What is it?": "Gun for Max"
+    },
+    {
+      "Invention": "Bomb",
+      "Idea 1": "Candle",
+      "Idea 2": "Pot",
+      "Idea 3": "Weapon Shop Sign",
+      "What is it?": "Throwable weapon"
+    },
+    {
+      "Invention": "Bread",
+      "Idea 1": "Fireplace",
+      "Idea 2": "Pollys Bakery Sign",
+      "Idea 3": "Wheat Flour",
+      "What is it?": "Restores small HP"
+    },
+    {
+      "Invention": "Cannonball Arm",
+      "Idea 1": "Manhole",
+      "Idea 2": "Old Style Robot",
+      "Idea 3": "Post",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Cannonball Arm II",
+      "Idea 1": "Constructor",
+      "Idea 2": "Post",
+      "Idea 3": "Rock",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Caterpillar",
+      "Idea 1": "Car",
+      "Idea 2": "Cart",
+      "Idea 3": "Wheel",
+      "What is it?": "Ridepod Leg"
+    },
+    {
+      "Invention": "Clown Body",
+      "Idea 1": "Cup",
+      "Idea 2": "Paints",
+      "Idea 3": "Parasol",
+      "What is it?": "Ridepod Body"
+    },
+    {
+      "Invention": "Clown Foot",
+      "Idea 1": "Clown Robos Attack",
+      "Idea 2": "Egg",
+      "Idea 3": "Scale",
+      "What is it?": "Ridepod Leg"
+    },
+    {
+      "Invention": "Clown Hand",
+      "Idea 1": "Clown Robos Attack",
+      "Idea 2": "Parasol",
+      "Idea 3": "Pipe",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Clown Shoes",
+      "Idea 1": "Clown Robos attack",
+      "Idea 2": "Cloth",
+      "Idea 3": "Parasol",
+      "What is it?": "Shoes for Max"
+    },
+    {
+      "Invention": "Energy Pack (Barrel)",
+      "Idea 1": "Barrel",
+      "Idea 2": "Belt",
+      "Idea 3": "Tree",
+      "What is it?": "Ridepod Energy Pack"
+    },
+    {
+      "Invention": "Energy Pack",
+      "Idea 1": "Belt",
+      "Idea 2": "Milk Can",
+      "Idea 3": "Pipe",
+      "What is it?": "Ridepod Energy Pack"
+    },
+    {
+      "Invention": "Gift Capsule",
+      "Idea 1": "Bone",
+      "Idea 2": "Letter",
+      "Idea 3": "Pot",
+      "What is it?": "Used to obtain Monster Badges"
+    },
+    {
+      "Invention": "Grenade Launcher",
+      "Idea 1": "Chimney",
+      "Idea 2": "Egg",
+      "Idea 3": "Fountain",
+      "What is it?": "Gun for Max"
+    },
+    {
+      "Invention": "Iron Leg",
+      "Idea 1": "Fence",
+      "Idea 2": "Old Style Robot",
+      "Idea 3": "Trashcan",
+      "What is it?": "Ridepod Leg"
+    },
+    {
+      "Invention": "Knight Boots",
+      "Idea 1": "Belt",
+      "Idea 2": "Shield",
+      "Idea 3": "The Moon",
+      "What is it?": "Shoes for Monica"
+    },
+    {
+      "Invention": "Lightspeed",
+      "Idea 1": "Candle",
+      "Idea 2": "Flower",
+      "Idea 3": "Rock",
+      "What is it?": "Throwable weapon"
+    },
+    {
+      "Invention": "Swan",
+      "Idea 1": "Boat",
+      "Idea 2": "Tiny Hammer",
+      "Idea 3": "Tree",
+      "What is it?": "Spheda Club"
+    },
+    {
+      "Invention": "Tasty Water",
+      "Idea 1": "Bottle",
+      "Idea 2": "Fountain",
+      "Idea 3": "Waterfall",
+      "What is it?": "Cures the Thirst condition"
+    },
+    {
+      "Invention": "Trumpet Gun",
+      "Idea 1": "Fountain",
+      "Idea 2": "Rapper",
+      "Idea 3": "Tree",
+      "What is it?": "Gun weapon for Max"
+    },
+    {
+      "Invention": "Work Shoes",
+      "Idea 1": "Cloth",
+      "Idea 2": "Constructor",
+      "Idea 3": "Ladder",
+      "What is it?": "Shoes for Max"
+    },
+    {
+      "Invention": "Anti Petrify Amulet",
+      "Idea 1": "Clock",
+      "Idea 2": "Juraks Eye",
+      "Idea 3": "Morning Sun",
+      "What is it?": "Prevents Petrification when in Active Item Slot. Eventually breaks"
+    },
+    {
+      "Invention": "Barrel Cannon",
+      "Idea 1": "Barrel",
+      "Idea 2": "Fountain",
+      "Idea 3": "Mushroom",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Bone Rapier",
+      "Idea 1": "Bone",
+      "Idea 2": "Cloth",
+      "Idea 3": "Withered Jurak",
+      "What is it?": "Sword for Monica"
+    },
+    {
+      "Invention": "Double Pudding",
+      "Idea 1": "Find the Golden Egg",
+      "Idea 2": "Milk Can",
+      "Idea 3": "Wheat Flour",
+      "What is it?": "Fully restores HP to both Max and Monica"
+    },
+    {
+      "Invention": "Improved Bomb",
+      "Idea 1": "Candle",
+      "Idea 2": "Coal",
+      "Idea 3": "Egg",
+      "What is it?": "Throwable weapon"
+    },
+    {
+      "Invention": "Leather Shoes",
+      "Idea 1": "Gyumos Yell",
+      "Idea 2": "Chair",
+      "Idea 3": "Cloth",
+      "What is it?": "Shoes for Max"
+    },
+    {
+      "Invention": "Lure Rod",
+      "Idea 1": "Lafrecia Stem",
+      "Idea 2": "Fish",
+      "Idea 3": "River",
+      "What is it?": "Used to fish with lures"
+    },
+    {
+      "Invention": "Anti Curse Amulet",
+      "Idea 1": "Hmmmm! Jurak",
+      "Idea 2": "Holy Emblem",
+      "Idea 3": "Saints Writings",
+      "What is it?": "Prevents Curse when in Active Item Slot. Eventually breaks"
+    },
+    {
+      "Invention": "Antidote Amulet",
+      "Idea 1": "Bed",
+      "Idea 2": "Dell Clinic Sign",
+      "Idea 3": "Holy Emblem",
+      "What is it?": "Prevents Poison when in Active Item Slot. Eventually breaks"
+    },
+    {
+      "Invention": "Antidote Drink",
+      "Idea 1": "Bottle",
+      "Idea 2": "Dell Clinic Sign",
+      "Idea 3": "Well",
+      "What is it?": "Cures the Poison condition"
+    },
+    {
+      "Invention": "Anti Goo Amulet",
+      "Idea 1": "Ruler of the Pond",
+      "Idea 2": "Laundry",
+      "Idea 3": "Waterfall",
+      "What is it?": "Prevents Goo when in Active Item Slot. Eventually breaks"
+    },
+    {
+      "Invention": "Barrel Cannon II",
+      "Idea 1": "Barrel",
+      "Idea 2": "Fountain",
+      "Idea 3": "Well",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Bucket Leg",
+      "Idea 1": "Can",
+      "Idea 2": "River",
+      "Idea 3": "Well",
+      "What is it?": "Ridepod Leg"
+    },
+    {
+      "Invention": "Bucket Pack",
+      "Idea 1": "Mailbox",
+      "Idea 2": "Trashcan",
+      "Idea 3": "Warehouse",
+      "What is it?": "Ridepod Energy Pack"
+    },
+    {
+      "Invention": "Cannonball Arm III",
+      "Idea 1": "Moon Crystal",
+      "Idea 2": "Constructor",
+      "Idea 3": "Post",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Cheese",
+      "Idea 1": "Cafe Sign",
+      "Idea 2": "Lao Chaos Trademark",
+      "Idea 3": "Milk Can",
+      "What is it?": "Restores more HP than Bread"
+    },
+    {
+      "Invention": "Clown Hand II",
+      "Idea 1": "Clowns Robo Attack",
+      "Idea 2": "Parasol",
+      "Idea 3": "Scale",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Dragon Shoes",
+      "Idea 1": "Cloth",
+      "Idea 2": "Runaway Dragon",
+      "Idea 3": "Waterfall",
+      "What is it?": "Shoes for Max"
+    },
+    {
+      "Invention": "Holy Water",
+      "Idea 1": "Bottle",
+      "Idea 2": "Holy Emblem",
+      "Idea 3": "The Sun",
+      "What is it?": "Cures Curse Condition and Throwable weapon against Undead."
+    },
+    {
+      "Invention": "Machine Gun Arm",
+      "Idea 1": "Fan",
+      "Idea 2": "Rifle",
+      "Idea 3": "Runaway Dragon",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Magic Gun",
+      "Idea 1": "Moon Crystal",
+      "Idea 2": "Fountain",
+      "Idea 3": "The Moon",
+      "What is it?": "Gun for Max"
+    },
+    {
+      "Invention": "Milk Can Body",
+      "Idea 1": "Chimney",
+      "Idea 2": "Milk Can",
+      "Idea 3": "Peeping Pole",
+      "What is it?": "Ridepod Body"
+    },
+    {
+      "Invention": "Missile Pod Arm",
+      "Idea 1": "Mushroom",
+      "Idea 2": "Rotating Sign",
+      "Idea 3": "Wooden Box",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Non Stop Amulet",
+      "Idea 1": "Clock",
+      "Idea 2": "Monument",
+      "Idea 3": "Starglass",
+      "What is it?": "Prevents Stop when in Active Item Slot. Eventually breaks"
+    },
+    {
+      "Invention": "Premium Chicken",
+      "Idea 1": "Burning Dragon Fire",
+      "Idea 2": "Pork Dumpling",
+      "Idea 3": "Special Peking Duck",
+      "What is it?": "Restores all HP"
+    },
+    {
+      "Invention": "Roller Foot",
+      "Idea 1": "Freight Train",
+      "Idea 2": "Rotating Sign",
+      "Idea 3": "Wheel",
+      "What is it?": "Ridepod Leg"
+    },
+    {
+      "Invention": "Samurai Arm",
+      "Idea 1": "Barrel",
+      "Idea 2": "Crescent Shaped Light",
+      "Idea 3": "Weapon",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Samurai Body",
+      "Idea 1": "Cedrics Shop Sign",
+      "Idea 2": "Crescent Shaped Light",
+      "Idea 3": "Telescope",
+      "What is it?": "Ridepod Body"
+    },
+    {
+      "Invention": "Sand Breaker",
+      "Idea 1": "Spinning Ivanoff",
+      "Idea 2": "Hand Sewn Silk Flag",
+      "Idea 3": "Horn",
+      "What is it?": "Sword for Monica"
+    },
+    {
+      "Invention": "Smash Wrench",
+      "Idea 1": "Constructor",
+      "Idea 2": "Rock",
+      "Idea 3": "Star Lamp",
+      "What is it?": "Wrench for Max"
+    },
+    {
+      "Invention": "Soap",
+      "Idea 1": "Laundry",
+      "Idea 2": "Palm Tree",
+      "Idea 3": "Waterfall",
+      "What is it?": "Cures the Goo condition"
+    },
+    {
+      "Invention": "Spike Boots",
+      "Idea 1": "Moon Crystal",
+      "Idea 2": "Parasol",
+      "Idea 3": "Pumpkin",
+      "What is it?": "Shoes for Monica"
+    },
+    {
+      "Invention": "Stamina Drink",
+      "Idea 1": "King Marden",
+      "Idea 2": "Bottle",
+      "Idea 3": "Chinese Lantern",
+      "What is it?": "Increases attack power for a short time"
+    },
+    {
+      "Invention": "Star Breaker",
+      "Idea 1": "Phantom Memo Eater",
+      "Idea 2": "Chimney",
+      "Idea 3": "Fire House",
+      "What is it?": "Gun for Max"
+    },
+    {
+      "Invention": "Wise Owl Sword",
+      "Idea 1": "Charging Ram",
+      "Idea 2": "Grass",
+      "Idea 3": "Tree",
+      "What is it?": "Sword for Monica"
+    },
+    {
+      "Invention": "Wooden Box Body",
+      "Idea 1": "Hmmmm! Jurak",
+      "Idea 2": "Giant Yorda Tree",
+      "Idea 3": "Wooden Box",
+      "What is it?": "Ridepod Body"
+    },
+    {
+      "Invention": "Barrel Cannon III",
+      "Idea 1": "Barrel",
+      "Idea 2": "Water Tank",
+      "Idea 3": "Waterfall",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Buggy",
+      "Idea 1": "Belt",
+      "Idea 2": "Car",
+      "Idea 3": "System 5WP2",
+      "What is it?": "Ridepod Leg (Ridepod becomes motorcycle)"
+    },
+    {
+      "Invention": "Cannonball Arm IV",
+      "Idea 1": "Constructor",
+      "Idea 2": "Egg Chair",
+      "Idea 3": "Rock",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Cleaner Pack",
+      "Idea 1": "Air Cleaner",
+      "Idea 2": "Belt",
+      "Idea 3": "Vacuum",
+      "What is it?": "Ridepod Energy Pack"
+    },
+    {
+      "Invention": "Clown Hand III",
+      "Idea 1": "Clowns Robo Attack",
+      "Idea 2": "Flag",
+      "Idea 3": "Work Arm",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Cubic Hammer",
+      "Idea 1": "Dresser",
+      "Idea 2": "Gold Store",
+      "Idea 3": "Work Equipment",
+      "What is it?": "Hammer for Max"
+    },
+    {
+      "Invention": "Dark Viper",
+      "Idea 1": "Night Stalker",
+      "Idea 2": "Puppet Shingala",
+      "Idea 3": "Rifle",
+      "What is it?": "Gun for Max"
+    },
+    {
+      "Invention": "Drill Arm",
+      "Idea 1": "Auto Book Reader",
+      "Idea 2": "Fan",
+      "Idea 3": "Windmill",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Flamingo",
+      "Idea 1": "Light of Luna Stone",
+      "Idea 2": "Palm Tree",
+      "Idea 3": "Tiny Hammer",
+      "What is it?": "Spheda Club"
+    },
+    {
+      "Invention": "Hammer Arm",
+      "Idea 1": "Barrel",
+      "Idea 2": "Post",
+      "Idea 3": "Work Robot",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Machine Gun Arm II",
+      "Idea 1": "Fan",
+      "Idea 2": "Telescope",
+      "Idea 3": "Windmill",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Missile Pod Arm II",
+      "Idea 1": "Symbol of Luna Lab",
+      "Idea 2": "Fountain",
+      "Idea 3": "Wooden Box",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Multi Feet",
+      "Idea 1": "Deer Horn",
+      "Idea 2": "Post",
+      "Idea 3": "Work Robot",
+      "What is it?": "Ridepod Leg"
+    },
+    {
+      "Invention": "Propellor Leg",
+      "Idea 1": "Cart",
+      "Idea 2": "Fan",
+      "Idea 3": "Windmill Feather",
+      "What is it?": "Ridepod Leg"
+    },
+    {
+      "Invention": "Question Shooter",
+      "Idea 1": "Brave Little Linda",
+      "Idea 2": "Fountain",
+      "Idea 3": "Neo Projector",
+      "What is it?": "Gun for Max"
+    },
+    {
+      "Invention": "Refridgerator Body",
+      "Idea 1": "Refridgerator",
+      "Idea 2": "Small Generator",
+      "Idea 3": "Traffic Light",
+      "What is it?": "Ridepod Body"
+    },
+    {
+      "Invention": "Stinger Wrench",
+      "Idea 1": "Air Cleaner",
+      "Idea 2": "Pipe",
+      "Idea 3": "Wheel",
+      "What is it?": "Wrench for Max"
+    },
+    {
+      "Invention": "Super Alloy Body",
+      "Idea 1": "Gold Store",
+      "Idea 2": "Searchlight",
+      "Idea 3": "Work Equipment",
+      "What is it?": "Ridepod Body"
+    },
+    {
+      "Invention": "Turkey",
+      "Idea 1": "Special Peking Duck",
+      "Idea 2": "Tree",
+      "Idea 3": "Windmill Feather",
+      "What is it?": "Spheda Club"
+    },
+    {
+      "Invention": "Wildcat",
+      "Idea 1": "Charging Ram",
+      "Idea 2": "Rifle",
+      "Idea 3": "Work Equipment",
+      "What is it?": "Gun for Max"
+    },
+    {
+      "Invention": "Wing Boots",
+      "Idea 1": "Belt",
+      "Idea 2": "Weather Vane",
+      "Idea 3": "Windmill Feather",
+      "What is it?": "Shoes for Monica"
+    },
+    {
+      "Invention": "Wing Shoes",
+      "Idea 1": "Cloth",
+      "Idea 2": "Parasol",
+      "Idea 3": "Windmill Feather",
+      "What is it?": "Shoes for Max"
+    },
+    {
+      "Invention": "Albatross",
+      "Idea 1": "Fire Squall",
+      "Idea 2": "Geyser",
+      "Idea 3": "Tree",
+      "What is it?": "Spheda Club"
+    },
+    {
+      "Invention": "Barrel Cannon IV",
+      "Idea 1": "Air Cleaner",
+      "Idea 2": "Barrel",
+      "Idea 3": "Fire Squall",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Clown Hand IV",
+      "Idea 1": "Clowns Robo Attack",
+      "Idea 2": "Paints",
+      "Idea 3": "Power Arm",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Digi Hammer",
+      "Idea 1": "Computer",
+      "Idea 2": "Constructor",
+      "Idea 3": "Decorative Lights",
+      "What is it?": "Hammer for Max"
+    },
+    {
+      "Invention": "Drill Arm II",
+      "Idea 1": "Elecrtric Sesame",
+      "Idea 2": "Horn",
+      "Idea 3": "Work Arm",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Drum Can Body",
+      "Idea 1": "Chair",
+      "Idea 2": "Drum Can",
+      "Idea 3": "Lamp",
+      "What is it?": "Ridepod Body"
+    },
+    {
+      "Invention": "Energy Pack (Urn)",
+      "Idea 1": "Energy Pipe",
+      "Idea 2": "Generator",
+      "Idea 3": "Pot",
+      "What is it?": "Ridepod Energy Pack"
+    },
+    {
+      "Invention": "Escape Powder",
+      "Idea 1": "Ancient Mural",
+      "Idea 2": "Elevator",
+      "Idea 3": "Transmission Device",
+      "What is it?": "Allows escape from dungeon while monsters are still present without \nsacrificing half your money"
+    },
+    {
+      "Invention": "Falcon",
+      "Idea 1": "Hammer",
+      "Idea 2": "Large Crane",
+      "Idea 3": "Withered Jurak",
+      "What is it?": "Spheda Club"
+    },
+    {
+      "Invention": "Final Bomb",
+      "Idea 1": "Candle",
+      "Idea 2": "Cinders",
+      "Idea 3": "Oven",
+      "What is it?": "Throwable weapon"
+    },
+    {
+      "Invention": "Hammer Arm II",
+      "Idea 1": "Hammer",
+      "Idea 2": "Post",
+      "Idea 3": "Work Arm",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Heavy Hammer",
+      "Idea 1": "Paznos",
+      "Idea 2": "Drum Can",
+      "Idea 3": "Power Arm",
+      "What is it?": "Hammer for Max"
+    },
+    {
+      "Invention": "Laser Arm",
+      "Idea 1": "Barrel",
+      "Idea 2": "Energy Pipe",
+      "Idea 3": "Geyser",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Machine Gun Arm III",
+      "Idea 1": "Propeller",
+      "Idea 2": "Rifle",
+      "Idea 3": "Windmill",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Metal Boots",
+      "Idea 1": "Belt",
+      "Idea 2": "Drum Can",
+      "Idea 3": "Work Robot",
+      "What is it?": "Shoes for Monica"
+    },
+    {
+      "Invention": "Missile Pod Arm III",
+      "Idea 1": "Deer Horn",
+      "Idea 2": "Generator",
+      "Idea 3": "Gold Store",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Nova Cannon",
+      "Idea 1": "Generator",
+      "Idea 2": "Rapper",
+      "Idea 3": "The Sun",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Panther Boots",
+      "Idea 1": "The Ultimate Gaspard",
+      "Idea 2": "Bone",
+      "Idea 3": "The Moon",
+      "What is it?": "Shoes for Monica"
+    },
+    {
+      "Invention": "Poison Wrench",
+      "Idea 1": "Deer Horn",
+      "Idea 2": "Mushroom",
+      "Idea 3": "Sulfer Coloured Juice",
+      "What is it?": "Wrench for Max"
+    },
+    {
+      "Invention": "Rulers Sword",
+      "Idea 1": "Paznos",
+      "Idea 2": "Figure",
+      "Idea 3": "Iron Maiden",
+      "What is it?": "Sword for Monica"
+    },
+    {
+      "Invention": "Samurai Arm II",
+      "Idea 1": "Runaway Dragon",
+      "Idea 2": "Weapon",
+      "Idea 3": "Work Crane",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Soul Breaker",
+      "Idea 1": "Energy Pipe",
+      "Idea 2": "Geyser",
+      "Idea 3": "Transmission Device",
+      "What is it?": "Gun for Max"
+    },
+    {
+      "Invention": "Steal Gun",
+      "Idea 1": "Book",
+      "Idea 2": "Fountain",
+      "Idea 3": "Work Crane",
+      "What is it?": "Gun for Max"
+    },
+    {
+      "Invention": "Sun and Moon Armour",
+      "Idea 1": "Electric Sesame",
+      "Idea 2": "The Moon",
+      "Idea 3": "The Sun",
+      "What is it?": "Ridepod Body"
+    },
+    {
+      "Invention": "Drill Arm III",
+      "Idea 1": "Ixion",
+      "Idea 2": "Luna Stone Shards",
+      "Idea 3": "Work Arm",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Hammer Arm III",
+      "Idea 1": "Earth Gem Alter",
+      "Idea 2": "Chimney",
+      "Idea 3": "Hammer",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Laser Arm II",
+      "Idea 1": "Ixion",
+      "Idea 2": "Crescent Shaped Light",
+      "Idea 3": "Energy Pipe",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Machine Gun Arm IV",
+      "Idea 1": "Wind Gem Alter",
+      "Idea 2": "Drum Can",
+      "Idea 3": "Propeller",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Missile Pod Arm IV",
+      "Idea 1": "Fire Gem Alter",
+      "Idea 2": "Gold Store",
+      "Idea 3": "Mount Gundor",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Nova Cannon II",
+      "Idea 1": "Fire Gem Alter",
+      "Idea 2": "Streetlight",
+      "Idea 3": "The Sun",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Drill Arm IV",
+      "Idea 1": "Flower of the Sun",
+      "Idea 2": "Deer horn",
+      "Idea 3": "Work Arm",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Hammer Arm IV",
+      "Idea 1": "Moon Column",
+      "Idea 2": "Power Arm",
+      "Idea 3": "Tiny Hammer",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Jet Hover",
+      "Idea 1": "Candle",
+      "Idea 2": "Fire House",
+      "Idea 3": "Relaxation Fountain",
+      "What is it?": "Ridepot Leg"
+    },
+    {
+      "Invention": "Laser Arm III",
+      "Idea 1": "Energy Pipe",
+      "Idea 2": "Relaxation Fountain",
+      "Idea 3": "Searchlight",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Laser Arm IV",
+      "Idea 1": "Legend of the Moon",
+      "Idea 2": "Blue Lantern",
+      "Idea 3": "Energy Pipe",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Levelup Powder",
+      "Idea 1": "Sun Chair",
+      "Idea 2": "Sun Table",
+      "Idea 3": "The Sun",
+      "What is it?": "Instantly levels up a weapon"
+    },
+    {
+      "Invention": "Nova Cannon III",
+      "Idea 1": "Moon Column",
+      "Idea 2": "Stove",
+      "Idea 3": "The Sun",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Princess Boots",
+      "Idea 1": "Moon Flower Palace",
+      "Idea 2": "Flower Chandelier",
+      "Idea 3": "Waterfall Curtain",
+      "What is it?": "Shoes for Monica"
+    },
+    {
+      "Invention": "Resurrection Powder",
+      "Idea 1": "hot Springs Spirit",
+      "Idea 2": "Fruit",
+      "Idea 3": "Lotus flower",
+      "What is it?": "Revives incapacitated character. Happens automatically if placed in Active \nItem"
+    },
+    {
+      "Invention": "Ridepod Fuel",
+      "Idea 1": "Lune Stone Shards",
+      "Idea 2": "Mud",
+      "Idea 3": "Stardust Pond",
+      "What is it?": "Refuels the Ridepods Energy Pack"
+    },
+    {
+      "Invention": "Samurai Arm III",
+      "Idea 1": "Deer Horn",
+      "Idea 2": "Moon Column",
+      "Idea 3": "Weapon",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Sexy Panther",
+      "Idea 1": "Elanas Portrait",
+      "Idea 2": "Flower Bathed in Light",
+      "Idea 3": "Rifle",
+      "What is it?": "Outfit for Monica"
+    },
+    {
+      "Invention": "Treasure Key",
+      "Idea 1": "Sun Chamber Gate Keeper",
+      "Idea 2": "Golden Door",
+      "Idea 3": "Labyrinth Door",
+      "What is it?": "Opens locked chests without worrying about traps"
+    },
+    {
+      "Invention": "Triple Urn Pack",
+      "Idea 1": "Flower Chandelier",
+      "Idea 2": "Light of Luna Stone",
+      "Idea 3": "Pot",
+      "What is it?": "Ridepod Energy Pack"
+    },
+    {
+      "Invention": "Twin Buster",
+      "Idea 1": "Flower Chandelier",
+      "Idea 2": "Juraks Nose",
+      "Idea 3": "Rifle",
+      "What is it?": "Gun for Max"
+    },
+    {
+      "Invention": "Nova Cannon IV",
+      "Idea 1": "Flotsam Revived",
+      "Idea 2": "Pot Torch",
+      "Idea 3": "The Sun",
+      "What is it?": "Ridepod Arm"
+    },
+    {
+      "Invention": "Samurai Arm IV",
+      "Idea 1": "A Surviving Soldier",
+      "Idea 2": "Flotsam Revived",
+      "Idea 3": "Legend of the Moon",
+      "What is it?": "Ridepod Arm"
+    }
+  ]
