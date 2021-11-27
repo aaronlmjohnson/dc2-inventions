@@ -1,23 +1,20 @@
 import { idea } from "./Idea.js"
 import { scoop } from "./Scoop.js"
 
-const manageIdeasAndInventions = ()=>{
-    fetch('/assets/json/ideas.json')
+const manageData = ()=>{
+    fetch('/assets/json/data.json')
     .then(response => response.json())
-    .then(chapters => {
-        const ideas = parseIdeas(chapters); 
-        return ideas;
-    }).then( (ideas)=>{
-        manageScoops();
+    .then(data => {
+        const ideas = parseIdeas(data[0]); 
     });
 }
 
-const manageScoops = fetch('/assets/json/scoops.json')
-    .then(response => response.json())
-    .then(scoops => {
-        const allScoops = parseScoops(scoops["Missable"], true).concat(
-                          parseScoops(scoops["Unmissable"], false));
-});
+// const manageScoops = fetch('/assets/json/scoops.json')
+//     .then(response => response.json())
+//     .then(scoops => {
+//         const allScoops = parseScoops(scoops["Missable"], true).concat(
+//                           parseScoops(scoops["Unmissable"], false));
+// });
 
 const parseIdeas = (chapters)=>{
     const ideas = [];
@@ -26,27 +23,28 @@ const parseIdeas = (chapters)=>{
             ideas.push(idea(obj["Idea"], obj["Can be Found"], obj["Additional Information"], chapter.at(-1))); //name, location, info, chapter
         });
     }
-    return ideas;
+
+   return ideas;
 }
 
-const parseScoops = (scoops, isMissable) =>{
-    const scoopArr = [];
+// const parseScoops = (scoops, isMissable) =>{
+//     const scoopArr = [];
 
-       for(const currScoop in scoops){
-           if(isMissable)//missable
-                scoopArr.push(scoop(scoops[currScoop]["Name"], scoops[currScoop]["Location"],
-                scoops[currScoop]["Description"], scoops[currScoop]["Point at which you missed it"]));     
-           else //unmissable
-                scoopArr.push(scoop(scoops[currScoop]["Name"], scoops[currScoop]["Location"],
-                scoops[currScoop]["Description"]));
-       }
-       return scoopArr;
-};
+//        for(const currScoop in scoops){
+//            if(isMissable)//missable
+//                 scoopArr.push(scoop(scoops[currScoop]["Name"], scoops[currScoop]["Location"],
+//                 scoops[currScoop]["Description"], scoops[currScoop]["Point at which you missed it"]));     
+//            else //unmissable
+//                 scoopArr.push(scoop(scoops[currScoop]["Name"], scoops[currScoop]["Location"],
+//                 scoops[currScoop]["Description"]));
+//        }
+//        return scoopArr;
+// };
 
-const parseInventions = () =>{
+// const parseInventions = () =>{
 
-}
+// }
 
-manageIdeasAndInventions();
-//manageScoops();
-//manageInventions();
+manageData();
+// //manageScoops();
+// //manageInventions();
