@@ -811,7 +811,7 @@
           "Additional Information": "A special constructable Georama lamp. Must be attached to a house."
         },
         {
-          "Idea": "Star Glass",
+          "Idea": "Starglass",
           "Can be Found": "Starlight Temple\nStar Items",
           "Additional Information": "**Missable** Above the counter. (get before finishing chapter 7)"
         },
@@ -1110,114 +1110,9 @@
           "Idea": "Wind Alter",
           "Can be Found": "Kazarov Stonehenge",
           "Additional Information": "**Missable** The alter with the yellow light. (get before finishing chapter \n7)"
-        },
-        {
-          "Idea": "Idea",
-          "Can be Found": "Can be Found",
-          "Additional Information": "Additional Information"
-        },
-        {
-          "Idea": "Alexandras Bed",
-          "Can be Found": "Moon Flower Palace\nAlexandras Room",
-          "Additional Information": "**Missable** The bed in this dungeon floor. (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Blue Lantern",
-          "Can be Found": "Moon Flower Palace\nFlower Garden",
-          "Additional Information": "**Missable** The Blue lights. (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Camillia Tree",
-          "Can be Found": "Moon Flower Palace Garden",
-          "Additional Information": "**Missable* *Constructable Georama item. (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Flower Bathed in Light",
-          "Can be Found": "Moon Flower Palace\nFlower Garden",
-          "Additional Information": "**Missable** The flowers in the pots. (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Flower Bed",
-          "Can be Found": "Moon Flower Palace Garden",
-          "Additional Information": "**Missable** (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Flower Chandelier",
-          "Can be Found": "Moon Flower Palace\nSun Chamber",
-          "Additional Information": "**Missable** Look at the ceiling. (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Golden Door",
-          "Can be Found": "Moon Flower Palace\nSun Chamber",
-          "Additional Information": "**Missable** The large door. (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Labyrinth Door",
-          "Can be Found": "Moon Flower Palace\n Sun Chamber",
-          "Additional Information": "**Missable** The door you came from that leads back to the dungeon. (get \nbefore finishing chapter 7)"
-        },
-        {
-          "Idea": "Lotus Flower",
-          "Can be Found": "Moon Flower Palace\n Flower Garden",
-          "Additional Information": "**Missable** The little flowers floating on the water. (get before \nfinishing chapter 7)"
-        },
-        {
-          "Idea": "Moon Column",
-          "Can be Found": "Moon Flower Palace Garden",
-          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Relaxation Fountain",
-          "Can be Found": "Moon Flower Palace Garden",
-          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Road to Golbad",
-          "Can be Found": "Moon Flower Palace Garden",
-          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Silver Bench",
-          "Can be Found": "Moon Flower Palace Garden",
-          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Stardust Pond",
-          "Can be Found": "Moon Flower Palace Garden",
-          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Starlight Stairway",
-          "Can be Found": "Moon Flower Palace Garden",
-          "Additional Information": "**Missable** Constructable Georama item. (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Starlight Tunnel",
-          "Can be Found": "Moon Flower Palace Garden",
-          "Additional Information": "**Missable** Constructable Georama item. The tunnel underneath Starlight \nStairway. (get before finishing chapter 7)"
-        },
-        {
-          "Idea": "Sun Chair",
-          "Can be Found": "Moon Flower Palace\nFlower Garden",
-          "Additional Information": "**Missable** The chair at the end of the path. (get before finishing \nchapter 7)"
-        },
-        {
-          "Idea": "Sun Table",
-          "Can be Found": "Moon Flower Palace\nFlower Garden",
-          "Additional Information": "**Missable** The table at the end of the path. (get before finishing \nchapter 7)"
-        },
-        {
-          "Idea": "Waterfall Curtain",
-          "Can be Found": "Moon Flower Palace\nFlower Garden",
-          "Additional Information": "**Missable** The curtains of water on either side. (get before finishing \nchapter 7)"
         }
       ],
       "Chapter7": [
-        {
-          "Idea": "Idea",
-          "Can be Found": "Can be Found",
-          "Additional Information": "Additional Information"
-        },
         {
           "Idea": "Alexandras Bed",
           "Can be Found": "Moon Flower Palace\nAlexandras Room",
@@ -1513,7 +1408,7 @@
           "Point at which you missed it": "As soon as you beat Linda."
         },
         {
-          "Name": "Clowns Robo Attack",
+          "Name": "Clown Robos Attack",
           "Chapter": 1,
           "Location": "Underground Water Channel\nBoss Room",
           "Description": "When the Robo opens it's eyes to shoot missiles. Get the pic of it's open \neyes. (bring plenty of healing items just in case)",
@@ -1755,7 +1650,7 @@
       },
       {
         "Invention": "Clown Shoes",
-        "Idea 1": "Clown Robos attack",
+        "Idea 1": "Clown Robos Attack",
         "Idea 2": "Cloth",
         "Idea 3": "Parasol",
         "Description": "Shoes for Max"
@@ -1951,7 +1846,7 @@
       },
       {
         "Invention": "Clown Hand II",
-        "Idea 1": "Clowns Robo Attack",
+        "Idea 1": "Clown Robos Attack",
         "Idea 2": "Parasol",
         "Idea 3": "Scale",
         "Description": "Ridepod Arm"
@@ -2072,7 +1967,7 @@
         "Invention": "Star Breaker",
         "Idea 1": "Phantom Memo Eater",
         "Idea 2": "Chimney",
-        "Idea 3": "Fire House",
+        "Idea 3": "Firehouse",
         "Description": "Gun for Max"
       },
       {
@@ -2119,7 +2014,7 @@
       },
       {
         "Invention": "Clown Hand III",
-        "Idea 1": "Clowns Robo Attack",
+        "Idea 1": "Clown Robos Attack",
         "Idea 2": "Flag",
         "Idea 3": "Work Arm",
         "Description": "Ridepod Arm"
@@ -2211,7 +2106,7 @@
       {
         "Invention": "Super Alloy Body",
         "Idea 1": "Gold Store",
-        "Idea 2": "Searchlight",
+        "Idea 2": "Search Light",
         "Idea 3": "Work Equipment",
         "Description": "Ridepod Body"
       },
@@ -2259,7 +2154,7 @@
       },
       {
         "Invention": "Clown Hand IV",
-        "Idea 1": "Clowns Robo Attack",
+        "Idea 1": "Clown Robos Attack",
         "Idea 2": "Paints",
         "Idea 3": "Power Arm",
         "Description": "Ridepod Arm"
@@ -2273,7 +2168,7 @@
       },
       {
         "Invention": "Drill Arm II",
-        "Idea 1": "Elecrtric Sesame",
+        "Idea 1": "Electric Sesame",
         "Idea 2": "Horn",
         "Idea 3": "Work Arm",
         "Description": "Ridepod Arm"
@@ -2456,7 +2351,7 @@
       {
         "Invention": "Drill Arm IV",
         "Idea 1": "Flower of the Sun",
-        "Idea 2": "Deer horn",
+        "Idea 2": "Deer Horn",
         "Idea 3": "Work Arm",
         "Description": "Ridepod Arm"
       },
@@ -2470,7 +2365,7 @@
       {
         "Invention": "Jet Hover",
         "Idea 1": "Candle",
-        "Idea 2": "Fire House",
+        "Idea 2": "Firehouse",
         "Idea 3": "Relaxation Fountain",
         "Description": "Ridepot Leg"
       },
@@ -2478,7 +2373,7 @@
         "Invention": "Laser Arm III",
         "Idea 1": "Energy Pipe",
         "Idea 2": "Relaxation Fountain",
-        "Idea 3": "Searchlight",
+        "Idea 3": "Search Light",
         "Description": "Ridepod Arm"
       },
       {
@@ -2511,14 +2406,14 @@
       },
       {
         "Invention": "Resurrection Powder",
-        "Idea 1": "hot Springs Spirit",
+        "Idea 1": "Hot Springs Spirit",
         "Idea 2": "Fruit",
-        "Idea 3": "Lotus flower",
+        "Idea 3": "Lotus Flower",
         "Description": "Revives incapacitated character. Happens automatically if placed in Active \nItem"
       },
       {
         "Invention": "Ridepod Fuel",
-        "Idea 1": "Lune Stone Shards",
+        "Idea 1": "Luna Stone Shards",
         "Idea 2": "Mud",
         "Idea 3": "Stardust Pond",
         "Description": "Refuels the Ridepods Energy Pack"
@@ -2532,14 +2427,14 @@
       },
       {
         "Invention": "Sexy Panther",
-        "Idea 1": "Elanas Portrait",
+        "Idea 1": "Elana's Portrait",
         "Idea 2": "Flower Bathed in Light",
         "Idea 3": "Rifle",
         "Description": "Outfit for Monica"
       },
       {
         "Invention": "Treasure Key",
-        "Idea 1": "Sun Chamber Gate Keeper",
+        "Idea 1": "Sun Chamber Gatekeeper",
         "Idea 2": "Golden Door",
         "Idea 3": "Labyrinth Door",
         "Description": "Opens locked chests without worrying about traps"

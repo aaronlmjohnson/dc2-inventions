@@ -64,14 +64,14 @@
     },
     {
       "Invention": "Clown Foot",
-      "Idea 1": "Clown Robos Attack",
+      "Idea 1": "Clown Robos attack",
       "Idea 2": "Egg",
       "Idea 3": "Scale",
       "Description": "Ridepod Leg"
     },
     {
       "Invention": "Clown Hand",
-      "Idea 1": "Clown Robos Attack",
+      "Idea 1": "Clown Robos attack",
       "Idea 2": "Parasol",
       "Idea 3": "Pipe",
       "Description": "Ridepod Arm"
@@ -841,7 +841,7 @@
     },
     {
       "Invention": "Ridepod Fuel",
-      "Idea 1": "Lune Stone Shards",
+      "Idea 1": "Luna Stone Shards",
       "Idea 2": "Mud",
       "Idea 3": "Stardust Pond",
       "Description": "Refuels the Ridepods Energy Pack"

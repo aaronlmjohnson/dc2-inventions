@@ -1,5 +1,6 @@
 import { idea } from "./Idea.js"
 import { scoop } from "./Scoop.js"
+import { invention } from "./Invention.js"
 
 const manageData = ()=>{
     fetch('/assets/json/data.json')
@@ -41,12 +42,21 @@ const createScoops = (scoops, isMissable) =>{
 };
 
 const parseInventions = (inventions, ideasAndScoops)=>{
-    const filtered = ideasAndScoops.filter((item)=> byFirstLetter(item, "A"));
-    console.log(filtered);
+    const invArr = [];
+    return inventions.map((inv)=>{
+        const newInv = invention(inv["Invention"], inv["Description"]);
+        const invIdeas = ideasAndScoops.filter((item)=>{
+            return byName(item, inv["Idea 1"]) || byName(item, inv["Idea 2"]) || byName(item, inv["Idea 3"]);
+        });
+
+        newInv.setIdeas(invIdeas[0], invIdeas[1], invIdeas[2]);
+        return newInv;
+    });
 
 };
 
 const byFirstLetter = (item, char)=> item.name[0] == char;
-//const byChapter
+const byChapter = (item, chapter)=> item.chapter == chapter; 
+const byName = (item, name)=> item.name == name;
 manageData();
 
