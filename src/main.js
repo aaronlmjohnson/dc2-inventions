@@ -6,15 +6,10 @@ const manageData = ()=>{
     .then(response => response.json())
     .then(data => {
         const ideas = parseIdeas(data[0]); 
+        const scoops = parseScoops(data[1]);
+        console.log(scoops);
     });
 }
-
-// const manageScoops = fetch('/assets/json/scoops.json')
-//     .then(response => response.json())
-//     .then(scoops => {
-//         const allScoops = parseScoops(scoops["Missable"], true).concat(
-//                           parseScoops(scoops["Unmissable"], false));
-// });
 
 const parseIdeas = (chapters)=>{
     const ideas = [];
@@ -27,24 +22,22 @@ const parseIdeas = (chapters)=>{
    return ideas;
 }
 
-// const parseScoops = (scoops, isMissable) =>{
-//     const scoopArr = [];
+const parseScoops = (scoops, isMissable = true) =>{
+    return createScoops(scoops["Unmissable"], false).concat(createScoops(scoops["Missable"], true));
+};
 
-//        for(const currScoop in scoops){
-//            if(isMissable)//missable
-//                 scoopArr.push(scoop(scoops[currScoop]["Name"], scoops[currScoop]["Location"],
-//                 scoops[currScoop]["Description"], scoops[currScoop]["Point at which you missed it"]));     
-//            else //unmissable
-//                 scoopArr.push(scoop(scoops[currScoop]["Name"], scoops[currScoop]["Location"],
-//                 scoops[currScoop]["Description"]));
-//        }
-//        return scoopArr;
-// };
-
-// const parseInventions = () =>{
-
-// }
+const createScoops = (scoops, isMissable) =>{
+    const scoopArr = [];
+       for(const currScoop in scoops){
+           if(isMissable)//missable
+                scoopArr.push(scoop(scoops[currScoop]["Name"], scoops[currScoop]["Location"],
+                scoops[currScoop]["Description"], scoops[currScoop]["Point at which you missed it"]));     
+           else //unmissable
+                scoopArr.push(scoop(scoops[currScoop]["Name"], scoops[currScoop]["Location"],
+                scoops[currScoop]["Description"]));
+       }
+       return scoopArr;
+}
 
 manageData();
-// //manageScoops();
-// //manageInventions();
+
