@@ -11,3 +11,4 @@ export const invention = (name, description)=>{
             getIdeas
            };
 };
+

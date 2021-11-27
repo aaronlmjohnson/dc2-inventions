@@ -7,9 +7,10 @@ const manageData = ()=>{
     .then(data => {
         const ideas = parseIdeas(data[0]); 
         const scoops = parseScoops(data[1]);
-        console.log(scoops);
+        const inventions = parseInventions(data[2], ideas.concat(scoops));
+        
     });
-}
+};
 
 const parseIdeas = (chapters)=>{
     const ideas = [];
@@ -20,7 +21,7 @@ const parseIdeas = (chapters)=>{
     }
 
    return ideas;
-}
+};
 
 const parseScoops = (scoops, isMissable = true) =>{
     return createScoops(scoops["Unmissable"], false).concat(createScoops(scoops["Missable"], true));
@@ -31,13 +32,21 @@ const createScoops = (scoops, isMissable) =>{
        for(const currScoop in scoops){
            if(isMissable)//missable
                 scoopArr.push(scoop(scoops[currScoop]["Name"], scoops[currScoop]["Location"],
-                scoops[currScoop]["Description"], scoops[currScoop]["Point at which you missed it"]));     
+                scoops[currScoop]["Description"], scoops[currScoop]["Chapter"],scoops[currScoop]["Point at which you missed it"]));     
            else //unmissable
                 scoopArr.push(scoop(scoops[currScoop]["Name"], scoops[currScoop]["Location"],
-                scoops[currScoop]["Description"]));
+                scoops[currScoop]["Description"], scoops[currScoop]["Chapter"]));
        }
        return scoopArr;
-}
+};
 
+const parseInventions = (inventions, ideasAndScoops)=>{
+    const filtered = ideasAndScoops.filter((item)=> byFirstLetter(item, "A"));
+    console.log(filtered);
+
+};
+
+const byFirstLetter = (item, char)=> item.name[0] == char;
+//const byChapter
 manageData();
 
