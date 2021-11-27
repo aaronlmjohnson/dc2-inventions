@@ -1,25 +1,23 @@
 import { idea } from "./Idea.js"
 import { scoop } from "./Scoop.js"
 
-const createIdeas = ()=>{
+const manageIdeasAndInventions = ()=>{
     fetch('/assets/json/ideas.json')
     .then(response => response.json())
     .then(chapters => {
         const ideas = parseIdeas(chapters); 
-
-        console.log(ideas[0].name);
+        return ideas;
+    }).then( (ideas)=>{
+        manageScoops();
     });
 }
 
-const createScoops = fetch('/assets/json/scoops.json')
+const manageScoops = fetch('/assets/json/scoops.json')
     .then(response => response.json())
     .then(scoops => {
         const allScoops = parseScoops(scoops["Missable"], true).concat(
                           parseScoops(scoops["Unmissable"], false));
-        console.log(allScoops);
 });
-
-//createIdeas();
 
 const parseIdeas = (chapters)=>{
     const ideas = [];
@@ -44,3 +42,11 @@ const parseScoops = (scoops, isMissable) =>{
        }
        return scoopArr;
 };
+
+const parseInventions = () =>{
+
+}
+
+manageIdeasAndInventions();
+//manageScoops();
+//manageInventions();
