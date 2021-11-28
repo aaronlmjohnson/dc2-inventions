@@ -6,10 +6,18 @@ const manageData = ()=>{
     fetch('/assets/json/data.json')
     .then(response => response.json())
     .then(data => {
+        const activeIdeas = [];
         const ideas = parseIdeas(data[0]); 
         const scoops = parseScoops(data[1]);
         const inventions = parseInventions(data[2], ideas.concat(scoops));
-        
+        createIdeasGrid(ideas);
+
+        const ideaElements = [...document.getElementsByClassName("idea")];
+        ideaElements.forEach(((element)=>{
+            element.addEventListener("click", ()=>{
+                toggleIdea(element);
+            });
+        }));
     });
 };
 
@@ -58,5 +66,36 @@ const parseInventions = (inventions, ideasAndScoops)=>{
 const byFirstLetter = (item, char)=> item.name[0] == char;
 const byChapter = (item, chapter)=> item.chapter == chapter; 
 const byName = (item, name)=> item.name == name;
+const createIdeasGrid = (ideas)=>{
+    const grid = document.getElementById("ideas");
+    ideas.forEach((id, i)=>{
+        const ideaElement = document.createElement("div");
+        ideaElement.className = "idea";
+        ideaElement.id = `idea-${i}`;
+        createIdeaTextContent(ideaElement, id);
+        grid.appendChild(ideaElement);
+    });
+}
 manageData();
+const createIdeaTextContent = (element, id)=>{
+    ["name", "location", "info", "chapter"].forEach((tag)=>{
+        const tagParagraph = document.createElement("p");
+
+        tagParagraph.innerText = `${tag}: ${id[tag]}`;
+
+        element.appendChild(tagParagraph);
+    });
+}
+
+const toggleIdea = (element) =>{
+    if(element.classList.contains("active"))
+        element.classList.remove("active");
+    else
+        element.classList.add("active");
+}
+
+
+
+//document.getElementsByClassName("idea").addEventListener("click", completeIdea);
+
 
