@@ -10,15 +10,22 @@ const manageData = ()=>{
         const ideas = parseIdeas(data[0]); 
         const scoops = parseScoops(data[1]);
         const inventions = parseInventions(data[2], ideas.concat(scoops));
-        createIdeasGrid(ideas);
+        createIdeasGrid(ideas.concat(scoops));
         createInventionGrid(inventions);
 
         const ideaElements = [...document.getElementsByClassName("idea")];
         ideaElements.forEach(((element)=>{
             element.addEventListener("click", ()=>{
                 toggleIdea(element);
-                availableInventions(acquiredIdeas(), inventions);
-
+                let filtInvs = availableInventions(acquiredIdeas(), inventions);
+                if(filtInvs.length > 0){
+                    filtInvs.forEach((inv)=>{
+                        const invElement = document.getElementById(inv.id);
+                        if(invElement.classList.contains("inactive"))
+                            invElement.classList.remove("inactive");
+                    });
+                }
+                
                 
             });
         }));
@@ -57,8 +64,8 @@ const createScoops = (scoops, isMissable) =>{
 
 const parseInventions = (inventions, ideasAndScoops)=>{
     const invArr = [];
-    return inventions.map((inv)=>{
-        const newInv = invention(inv["Invention"], inv["Description"]);
+    return inventions.map((inv, i)=>{
+        const newInv = invention(inv["Invention"], inv["Description"], `invention-${i}`);
         const invIdeas = ideasAndScoops.filter((item)=>{
             return byName(item, inv["Idea 1"]) || byName(item, inv["Idea 2"]) || byName(item, inv["Idea 3"]);
         });
@@ -111,6 +118,7 @@ const createInventionGrid = (inventions) =>{
         inventionElement.className = "invention";
         inventionElement.id = `invention-${i}`;
         createInvTextContent(inventionElement, inv);
+        inventionElement.classList.add("inactive");
         grid.appendChild(inventionElement);
     });
 }
@@ -142,15 +150,11 @@ const acquiredIdeas = ()=>{
 }
 
 const availableInventions = (ideas, inventions) =>{
-    //console.log(ideas);
-    const simpleInv = inventions.map((inv) =>{
-       return {name : inv.name, ideas:inv.getIdeas()}
-    });
-    console.log(simpleInv.filter((inv)=>{
-        return inv.ideas.map((id)=>{
+    return inventions.filter((inv)=>{
+        return inv.getIdeas().map((id)=>{
             return ideas.includes(id.name);
         }).every((ele)=>ele == true);
-    }));
+    });
 }
 
 //look through the inventions 

@@ -87,3 +87,7 @@ h1{
     background: green;
     color: white;   
 }
+
+.inactive {
+    display: none;
+}
