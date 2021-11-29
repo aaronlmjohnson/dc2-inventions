@@ -39,8 +39,7 @@ h1{
 }
 #ideas{
     display: grid;
-    display:none;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(10, 1fr);
     gap: 10px;
 }
 

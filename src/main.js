@@ -12,12 +12,18 @@ const manageData = ()=>{
         const inventions = parseInventions(data[2], ideas.concat(scoops));
         createIdeasGrid(ideas);
         createInventionGrid(inventions);
+
         const ideaElements = [...document.getElementsByClassName("idea")];
         ideaElements.forEach(((element)=>{
             element.addEventListener("click", ()=>{
                 toggleIdea(element);
+                availableInventions(acquiredIdeas(), inventions);
+
+                
             });
         }));
+
+
     });
 };
 
@@ -78,10 +84,10 @@ const createIdeasGrid = (ideas)=>{
 }
 manageData();
 const createIdeaTextContent = (element, id)=>{
-    ["name", "location", "info", "chapter"].forEach((tag)=>{
+    ["name"/*, "location", "info", "chapter"*/].forEach((tag)=>{
         const tagParagraph = document.createElement("p");
 
-        tagParagraph.innerText = `${tag}: ${id[tag]}`;
+        tagParagraph.innerText = `${id[tag]}`;
 
         element.appendChild(tagParagraph);
     });
@@ -99,7 +105,7 @@ const toggleIdea = (element) =>{
 
 const createInventionGrid = (inventions) =>{
     const grid = document.getElementById("inventions");
-    console.log(inventions);
+
     inventions.forEach((inv, i)=>{
         const inventionElement = document.createElement("div");
         inventionElement.className = "invention";
@@ -116,8 +122,6 @@ const createInvTextContent = (element, inv)=>{
         const ideaList = "Requires:"
         tagParagraph.innerText = `${tag}: ${inv[tag]}`;
 
-        
-
         element.appendChild(tagParagraph);
     });
 
@@ -132,6 +136,25 @@ const createInvTextContent = (element, inv)=>{
     element.appendChild(ideaListP);
 }
 
+
+const acquiredIdeas = ()=>{
+    return [...document.getElementsByClassName("active")].map(element => element.innerText);
+}
+
+const availableInventions = (ideas, inventions) =>{
+    //console.log(ideas);
+    const simpleInv = inventions.map((inv) =>{
+       return {name : inv.name, ideas:inv.getIdeas()}
+    });
+    console.log(simpleInv.filter((inv)=>{
+        return inv.ideas.map((id)=>{
+            return ideas.includes(id.name);
+        }).every((ele)=>ele == true);
+    }));
+}
+
+//look through the inventions 
+// see if the ideas for selected invention are within the acquired Ideas array
 
 
 
