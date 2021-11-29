@@ -11,7 +11,7 @@ const manageData = ()=>{
         const scoops = parseScoops(data[1]);
         const inventions = parseInventions(data[2], ideas.concat(scoops));
         createIdeasGrid(ideas);
-
+        createInventionGrid(inventions);
         const ideaElements = [...document.getElementsByClassName("idea")];
         ideaElements.forEach(((element)=>{
             element.addEventListener("click", ()=>{
@@ -92,7 +92,47 @@ const toggleIdea = (element) =>{
         element.classList.remove("active");
     else
         element.classList.add("active");
+
+        //add and remove from toggled array and add this to cookies to remember session
 }
+
+
+const createInventionGrid = (inventions) =>{
+    const grid = document.getElementById("inventions");
+    console.log(inventions);
+    inventions.forEach((inv, i)=>{
+        const inventionElement = document.createElement("div");
+        inventionElement.className = "invention";
+        inventionElement.id = `invention-${i}`;
+        createInvTextContent(inventionElement, inv);
+        grid.appendChild(inventionElement);
+    });
+}
+
+const createInvTextContent = (element, inv)=>{
+    ["name", "description"].forEach((tag)=>{
+
+        const tagParagraph = document.createElement("p");
+        const ideaList = "Requires:"
+        tagParagraph.innerText = `${tag}: ${inv[tag]}`;
+
+        
+
+        element.appendChild(tagParagraph);
+    });
+
+    const ideaListP = document.createElement("p");
+    let ideaList = "Requires: "
+
+    inv.getIdeas().forEach((id, i)=>{
+        ideaList += i < 2 ? `${id.name}, ` : `${id.name}`;
+    });
+
+    ideaListP.innerText = ideaList;
+    element.appendChild(ideaListP);
+}
+
+
 
 
 

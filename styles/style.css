@@ -33,12 +33,13 @@ body {
 }
 
 h1{
-    font-size: 24px;
+    font-size: 48px;
     margin: 0 0 20px 0;
     text-align: center;
 }
 #ideas{
     display: grid;
+    display:none;
     grid-template-columns: repeat(5, 1fr);
     gap: 10px;
 }
@@ -55,4 +56,35 @@ h1{
 .active {
     background: green;
     color: white;
+}
+
+.active:hover{
+    background: green;
+    color: white;   
+}
+
+#inventions{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+}
+
+.invention {
+    border: 1px solid white;
+}
+
+.invention:hover {
+    background: white;
+    color: black;
+}
+
+.active {
+    background: green;
+    color: white;
+}
+
+.active:hover{
+    background: green;
+    color: white;   
 }
